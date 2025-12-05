@@ -1,0 +1,1603 @@
+company,job_title,job_category,seniority,country,min_experience_clean,min_experience,avg_salary_lpa,min_salary_lpa,max_salary_lpa,num_of_salaries,skill_python,skill_r,skill_sql,skill_excel,skill_tableau,skill_power_bi,skill_machine_learning,skill_statistics,skill_spark,skill_hadoop,skill_aws,skill_azure,skill_tensorflow,skill_pytorch,skill_nlp,skill_computer_vision,skill_big_data,skill_etl,skill_git,skill_docker,skill_data_visualization
+TCS,Data Scientist,Data Scientist,Mid-Level,India,2,2,7.8,4.5,16.0,841,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Accenture,Data Scientist,Data Scientist,Mid-Level,India,2,2,12.8,5.8,23.0,501,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IBM,Data Scientist,Data Scientist,Mid-Level,India,2,2,13.4,5.3,25.0,394,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cognizant,Data Scientist,Data Scientist,Mid-Level,India,2,2,9.8,5.0,18.0,318,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Capgemini,Data Scientist,Data Scientist,Mid-Level,India,2,2,8.6,4.8,14.6,300,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Infosys,Data Scientist,Data Scientist,Mid-Level,India,2,2,9.3,4.5,24.0,228,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wipro,Data Scientist,Data Scientist,Mid-Level,India,2,2,9.7,4.5,18.2,225,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tech Mahindra,Data Scientist,Data Scientist,Mid-Level,India,2,2,7.6,4.1,15.4,218,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fractal Analytics,Data Scientist,Data Scientist,Mid-Level,India,2,2,15.9,10.0,23.0,166,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Deloitte,Data Scientist,Data Scientist,Mid-Level,India,2,2,14.2,7.0,25.0,163,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ericsson,Data Scientist,Data Scientist,Mid-Level,India,3,3,14.6,6.0,26.9,152,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HCL Technologies,Data Scientist,Data Scientist,Mid-Level,India,2,2,9.8,4.5,20.3,152,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Amazon,Data Scientist,Data Scientist,Mid-Level,India,2,2,28.1,9.5,50.0,140,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UnitedHealth,Data Scientist,Data Scientist,Mid-Level,India,2,2,14.8,8.3,21.5,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mu Sigma,Data Scientist,Data Scientist,Mid-Level,India,1,1,7.4,5.0,12.0,116,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ab Inbev,Data Scientist,Data Scientist,Mid-Level,India,2,2,20.6,15.0,26.2,116,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+L&T Infotech,Data Scientist,Data Scientist,Mid-Level,India,2,2,11.6,6.5,20.9,102,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tiger Analytics,Data Scientist,Data Scientist,Mid-Level,India,2,2,14.8,9.0,20.0,102,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Optum,Data Scientist,Data Scientist,Mid-Level,India,2,2,16.6,11.0,22.5,101,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ernst & Young,Data Scientist,Data Scientist,Mid-Level,India,2,2,12.4,6.7,20.0,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mindtree,Data Scientist,Data Scientist,Mid-Level,India,2,2,10.6,4.8,18.7,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Walmart,Data Scientist,Data Scientist,Mid-Level,India,2,2,28.3,17.8,41.0,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DXC Technology,Data Scientist,Data Scientist,Mid-Level,India,2,2,10.0,4.4,15.5,83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Microsoft Corporation,Data Scientist,Data Scientist,Mid-Level,India,1,1,32.1,13.0,60.0,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Genpact,Data Scientist,Data Scientist,Mid-Level,India,2,2,12.2,5.5,20.0,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hewlett-Packard Enterprise,Data Scientist,Data Scientist,Mid-Level,India,2,2,16.6,7.1,26.5,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ford Motor,Data Scientist,Data Scientist,Mid-Level,India,2,2,14.4,10.0,20.0,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reliance jio,Data Scientist,Data Scientist,Mid-Level,India,1,1,15.6,5.6,30.0,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Verizon,Data Scientist,Data Scientist,Mid-Level,India,3,3,14.2,9.9,21.8,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IQVIA,Data Scientist,Data Scientist,Mid-Level,India,2,2,11.4,6.9,22.0,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shell,Data Scientist,Data Scientist,Mid-Level,India,3,3,20.9,13.5,27.0,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PayPal,Data Scientist,Data Scientist,Mid-Level,India,3,3,27.7,15.0,45.0,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JP Morgan Chase,Data Scientist,Data Scientist,Mid-Level,India,2,2,20.5,12.0,31.0,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EXL Service,Data Scientist,Data Scientist,Mid-Level,India,1,1,14.0,7.6,21.0,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+American Express,Data Scientist,Data Scientist,Mid-Level,India,2,2,17.7,10.8,26.0,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vodafone Idea,Data Scientist,Data Scientist,Mid-Level,India,2,2,13.4,6.0,20.0,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HDFC Bank,Data Scientist,Data Scientist,Mid-Level,India,0,0,15.3,9.0,22.2,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Great Learning,Data Scientist,Data Scientist,Mid-Level,India,0,0,9.3,7.0,13.8,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reliance Industries,Data Scientist,Data Scientist,Mid-Level,India,1,1,10.4,6.0,21.0,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZS,Data Scientist,Data Scientist,Mid-Level,India,1,1,16.9,10.0,25.0,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oracle,Data Scientist,Data Scientist,Mid-Level,India,2,2,16.3,6.5,39.0,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Novartis Healthcare,Data Scientist,Data Scientist,Mid-Level,India,2,2,21.9,9.0,36.0,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TheMathCompany,Data Scientist,Data Scientist,Mid-Level,India,2,2,10.5,6.0,16.0,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PwC,Data Scientist,Data Scientist,Mid-Level,India,2,2,12.6,7.5,20.0,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SAP,Data Scientist,Data Scientist,Mid-Level,India,2,2,17.4,11.0,26.0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Legato Health Technologies,Data Scientist,Data Scientist,Mid-Level,India,1,1,14.3,9.0,21.0,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Impact Analytics,Data Scientist,Data Scientist,Mid-Level,India,0,0,9.0,7.0,13.0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Innominds Software,Data Scientist,Data Scientist,Mid-Level,India,1,1,10.7,6.5,15.2,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Flipkart,Data Scientist,Data Scientist,Mid-Level,India,0,0,23.2,14.7,42.0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Innodatatics,Data Scientist,Data Scientist,Mid-Level,India,0,0,4.5,2.0,7.0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KPMG,Data Scientist,Data Scientist,Mid-Level,India,2,2,14.1,9.0,20.0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NTT DATA,Data Scientist,Data Scientist,Mid-Level,India,2,2,7.7,5.0,17.2,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,Data Scientist,Data Scientist,Mid-Level,India,2,2,14.1,8.5,23.9,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Societe Generale,Data Scientist,Data Scientist,Mid-Level,India,1,1,18.2,7.4,26.0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mphasis,Data Scientist,Data Scientist,Mid-Level,India,2,2,8.9,5.2,15.0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mercedes-Benz Research & Development India,Data Scientist,Data Scientist,Mid-Level,India,2,2,14.1,8.2,21.0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BEPEC Solutions,Data Scientist,Data Scientist,Mid-Level,India,1,1,4.9,3.0,7.0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brillio,Data Scientist,Data Scientist,Mid-Level,India,1,1,16.0,9.0,24.0,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ABC,Data Scientist,Data Scientist,Mid-Level,India,2,2,19.2,6.5,35.0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+WNS,Data Scientist,Data Scientist,Mid-Level,India,1,1,11.4,7.2,17.0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hexaware Technologies,Data Scientist,Data Scientist,Mid-Level,India,0,0,9.7,4.5,19.0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+International School of Engineering,Data Scientist,Data Scientist,Mid-Level,India,1,1,10.5,5.4,16.3,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wells Fargo India,Data Scientist,Data Scientist,Mid-Level,India,2,2,15.4,5.5,31.2,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kyndryl,Data Scientist,Data Scientist,Mid-Level,India,3,3,14.1,6.0,30.0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+eClerx,Data Scientist,Data Scientist,Mid-Level,India,2,2,9.3,6.0,16.7,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DBS Bank,Data Scientist,Data Scientist,Mid-Level,India,2,2,14.3,9.0,23.7,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cyient,Data Scientist,Data Scientist,Mid-Level,India,2,2,10.4,5.0,18.5,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nagarro,Data Scientist,Data Scientist,Mid-Level,India,1,1,12.1,7.0,18.0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Freelancer.com,Data Scientist,Data Scientist,Mid-Level,India,1,1,7.1,3.0,15.0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cisco Systems,Data Scientist,Data Scientist,Mid-Level,India,2,2,19.0,12.0,32.5,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bajaj Finserv,Data Scientist,Data Scientist,Mid-Level,India,1,1,11.9,7.5,19.4,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dell,Data Scientist,Data Scientist,Mid-Level,India,1,1,17.0,8.0,27.0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dunnhumby,Data Scientist,Data Scientist,Mid-Level,India,1,1,12.9,8.5,18.0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Honeywell Technology Solutions,Data Scientist,Data Scientist,Mid-Level,India,2,2,15.1,8.5,23.4,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bristlecone,Data Scientist,Data Scientist,Mid-Level,India,1,1,9.0,6.6,11.5,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sigmoid Analytics,Data Scientist,Data Scientist,Mid-Level,India,0,0,14.9,11.0,20.0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Applied Materials,Data Scientist,Data Scientist,Mid-Level,India,2,2,14.2,7.0,22.0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Citicorp,Data Scientist,Data Scientist,Mid-Level,India,2,2,19.2,14.0,23.5,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Siemens,Data Scientist,Data Scientist,Mid-Level,India,2,2,13.5,7.8,24.0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MasterCard,Data Scientist,Data Scientist,Mid-Level,India,2,2,19.6,12.1,25.3,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bosch Global Software Technologies,Data Scientist,Data Scientist,Mid-Level,India,2,2,11.9,7.0,16.6,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wolters Kluwer,Data Scientist,Data Scientist,Mid-Level,India,0,0,12.5,9.9,17.6,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Birlasoft,Data Scientist,Data Scientist,Mid-Level,India,2,2,8.0,4.0,12.7,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Atos,Data Scientist,Data Scientist,Mid-Level,India,2,2,13.0,5.0,28.0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Info Edge,Data Scientist,Data Scientist,Mid-Level,India,0,0,16.9,12.0,24.0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VMware Software,Data Scientist,Data Scientist,Mid-Level,India,4,4,23.6,11.5,32.1,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Course5,Data Scientist,Data Scientist,Mid-Level,India,1,1,8.1,4.0,12.7,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bridgei2i Analytics Solutions,Data Scientist,Data Scientist,Mid-Level,India,2,2,9.4,6.0,14.4,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Larsen & Toubro Limited,Data Scientist,Data Scientist,Mid-Level,India,1,1,9.4,4.5,23.0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+iNeuron.ai,Data Scientist,Data Scientist,Mid-Level,India,0,0,5.1,3.0,8.0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tredence,Data Scientist,Data Scientist,Mid-Level,India,2,2,14.4,8.0,19.0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Enquero,Data Scientist,Data Scientist,Mid-Level,India,0,0,11.5,5.0,16.2,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R Systems International,Data Scientist,Data Scientist,Mid-Level,India,2,2,16.2,7.5,24.4,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UST,Data Scientist,Data Scientist,Mid-Level,India,3,3,9.8,6.5,15.0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cgi Group,Data Scientist,Data Scientist,Mid-Level,India,2,2,8.2,4.2,14.0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bank of America,Data Scientist,Data Scientist,Mid-Level,India,2,2,22.8,13.2,30.3,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Axis Bank,Data Scientist,Data Scientist,Mid-Level,India,1,1,11.7,7.9,18.0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ganit Business Solutions,Data Scientist,Data Scientist,Mid-Level,India,3,3,12.6,8.5,16.0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Virtusa Consulting Services,Data Scientist,Data Scientist,Mid-Level,India,1,1,9.7,4.8,15.6,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ITC Infotech India,Data Scientist,Data Scientist,Mid-Level,India,2,2,10.9,4.1,20.5,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gramener,Data Scientist,Data Scientist,Mid-Level,India,1,1,9.8,7.5,14.0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Subex,Data Scientist,Data Scientist,Mid-Level,India,1,1,10.8,8.2,13.7,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Xoriant,Data Scientist,Data Scientist,Mid-Level,India,2,2,10.4,5.3,17.6,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Caterpillar Inc,Data Scientist,Data Scientist,Mid-Level,India,2,2,12.8,7.7,18.0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ICICI Bank,Data Scientist,Data Scientist,Mid-Level,India,0,0,11.9,5.0,20.0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Freelance Consultants,Data Scientist,Data Scientist,Mid-Level,India,1,1,10.2,3.2,24.0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sutherland Global Services,Data Scientist,Data Scientist,Mid-Level,India,1,1,8.5,5.1,12.3,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Prodapt Solutions,Data Scientist,Data Scientist,Mid-Level,India,1,1,6.9,3.3,16.0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rubixe,Data Scientist,Data Scientist,Mid-Level,India,0,0,4.7,2.4,9.0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NDS InfoServ,Data Scientist,Data Scientist,Mid-Level,India,0,0,9.1,5.0,12.0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zensar Technologies,Data Scientist,Data Scientist,Mid-Level,India,1,1,8.2,4.2,15.5,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fidelity National Information Services,Data Scientist,Data Scientist,Mid-Level,India,3,3,10.9,7.3,18.6,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KPIT Technologies,Data Scientist,Data Scientist,Mid-Level,India,1,1,7.7,4.5,15.0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Citibank,Data Scientist,Data Scientist,Mid-Level,India,2,2,17.3,10.0,24.2,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ValueLabs,Data Scientist,Data Scientist,Mid-Level,India,2,2,14.6,7.0,22.5,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ABB Group,Data Scientist,Data Scientist,Mid-Level,India,2,2,13.0,8.3,19.0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+L&T Financial Services,Data Scientist,Data Scientist,Mid-Level,India,1,1,9.3,8.2,12.5,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Value c Consulting India,Data Scientist,Data Scientist,Mid-Level,India,2,2,5.2,4.2,6.0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lumiq.ai,Data Scientist,Data Scientist,Mid-Level,India,0,0,8.3,6.0,13.0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Flip Robo Technologies,Data Scientist,Data Scientist,Mid-Level,India,1,1,4.7,3.0,7.9,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Philips,Data Scientist,Data Scientist,Mid-Level,India,3,3,17.9,11.2,30.0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nokia,Data Scientist,Data Scientist,Mid-Level,India,2,2,13.0,6.2,24.0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Confidential,Data Scientist,Data Scientist,Mid-Level,India,1,1,8.5,4.1,18.5,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tata Technologies,Data Scientist,Data Scientist,Mid-Level,India,0,0,6.6,4.8,9.2,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nielsen,Data Scientist,Data Scientist,Mid-Level,India,1,1,7.0,6.0,10.0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kantar,Data Scientist,Data Scientist,Mid-Level,India,3,3,11.5,6.4,18.0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Persistent Systems,Data Scientist,Data Scientist,Mid-Level,India,2,2,10.5,5.8,17.0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Exl India,Data Scientist,Data Scientist,Mid-Level,India,1,1,14.0,10.0,18.0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Blue Yonder,Data Scientist,Data Scientist,Mid-Level,India,3,3,20.6,15.1,26.0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brane Enterprises,Data Scientist,Data Scientist,Mid-Level,India,1,1,14.0,8.0,22.5,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Micron Technology,Data Scientist,Data Scientist,Mid-Level,India,0,0,16.4,11.4,25.0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Indegene,Data Scientist,Data Scientist,Mid-Level,India,0,0,9.6,8.0,14.5,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CARS24.com,Data Scientist,Data Scientist,Mid-Level,India,1,1,20.3,14.5,24.0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GlobalLogic,Data Scientist,Data Scientist,Mid-Level,India,2,2,14.6,4.0,26.0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maersk,Data Scientist,Data Scientist,Mid-Level,India,4,4,20.9,14.0,31.0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Barclays,Data Scientist,Data Scientist,Mid-Level,India,2,2,18.2,13.6,25.0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Indium Software,Data Scientist,Data Scientist,Mid-Level,India,1,1,7.9,5.0,12.0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Celebal Technologies,Data Scientist,Data Scientist,Mid-Level,India,0,0,8.6,5.7,13.0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Affine Analytics,Data Scientist,Data Scientist,Mid-Level,India,1,1,9.7,6.3,18.0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fidelity Investment,Data Scientist,Data Scientist,Mid-Level,India,3,3,23.4,13.8,36.0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jio Platforms,Data Scientist,Data Scientist,Mid-Level,India,2,2,13.9,7.0,23.0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Happiest Minds Technologies,Data Scientist,Data Scientist,Mid-Level,India,1,1,8.7,5.2,14.0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Adobe,Data Scientist,Data Scientist,Mid-Level,India,3,3,29.4,20.0,44.0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CitiusTech,Data Scientist,Data Scientist,Mid-Level,India,2,2,10.4,5.8,17.5,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scienaptic Systems,Data Scientist,Data Scientist,Mid-Level,India,0,0,14.6,8.0,19.0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Boeing,Data Scientist,Data Scientist,Mid-Level,India,1,1,19.4,13.5,35.0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Citigroup,Data Scientist,Data Scientist,Mid-Level,India,1,1,18.4,13.5,27.5,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marlabs,Data Scientist,Data Scientist,Mid-Level,India,0,0,9.3,5.5,20.6,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TransOrg Analytics,Data Scientist,Data Scientist,Mid-Level,India,1,1,9.4,7.0,13.5,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+T-Systems,Data Scientist,Data Scientist,Mid-Level,India,3,3,14.1,7.8,24.0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sopra Steria,Data Scientist,Data Scientist,Mid-Level,India,3,3,12.1,8.0,19.7,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Apexon,Data Scientist,Data Scientist,Mid-Level,India,2,2,7.5,4.9,10.8,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Embibe,Data Scientist,Data Scientist,Mid-Level,India,0,0,16.6,12.0,21.0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Quest Global,Data Scientist,Data Scientist,Mid-Level,India,2,2,6.7,4.8,8.5,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Harman Connected Services,Data Scientist,Data Scientist,Mid-Level,India,3,3,13.6,7.0,26.5,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Exxon Mobil,Data Scientist,Data Scientist,Mid-Level,India,2,2,23.2,14.0,30.1,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ugam Solution,Data Scientist,Data Scientist,Mid-Level,India,0,0,9.8,5.0,15.0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+L&T Technology Services,Data Scientist,Data Scientist,Mid-Level,India,1,1,8.7,4.3,18.0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Credit Suisse,Data Scientist,Data Scientist,Mid-Level,India,2,2,17.4,11.0,26.0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Iris Software,Data Scientist,Data Scientist,Mid-Level,India,5,5,18.5,11.5,25.8,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Delhivery,Data Scientist,Data Scientist,Mid-Level,India,1,1,15.6,10.0,20.8,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Abzooba India Infotech,Data Scientist,Data Scientist,Mid-Level,India,1,1,15.0,8.5,20.1,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sonata Software,Data Scientist,Data Scientist,Mid-Level,India,1,1,8.1,4.8,12.0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Incedo,Data Scientist,Data Scientist,Mid-Level,India,1,1,12.2,7.0,20.0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Go-Jek,Data Scientist,Data Scientist,Mid-Level,India,3,3,30.5,16.5,44.0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GE,Data Scientist,Data Scientist,Mid-Level,India,2,2,14.3,8.4,24.0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fiserv,Data Scientist,Data Scientist,Mid-Level,India,3,3,12.1,8.0,17.0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBS,Data Scientist,Data Scientist,Mid-Level,India,2,2,15.2,10.2,22.0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Quantiphi Analytics Solutions,Data Scientist,Data Scientist,Mid-Level,India,0,0,9.8,7.0,16.0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Amdocs,Data Scientist,Data Scientist,Mid-Level,India,2,2,8.5,6.0,12.0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,Data Scientist,Data Scientist,Mid-Level,India,2,2,33.6,8.2,74.5,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oyo Rooms,Data Scientist,Data Scientist,Mid-Level,India,0,0,14.7,10.0,20.5,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+iOPEX Technologies,Data Scientist,Data Scientist,Mid-Level,India,1,1,7.9,3.5,12.0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Yash Technologies,Data Scientist,Data Scientist,Mid-Level,India,2,2,11.2,7.5,16.0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Franklin Templeton Investments,Data Scientist,Data Scientist,Mid-Level,India,3,3,27.7,15.0,45.0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+N+A,Data Scientist,Data Scientist,Mid-Level,India,0,0,8.6,2.4,15.0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ICICI Lombard General Insurance Company,Data Scientist,Data Scientist,Mid-Level,India,0,0,12.1,7.4,15.4,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reserve Bank Information Technology,Data Scientist,Data Scientist,Mid-Level,India,2,2,15.9,8.0,23.5,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+o9 Solutions,Data Scientist,Data Scientist,Mid-Level,India,1,1,13.8,11.0,17.5,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HTC Global Services,Data Scientist,Data Scientist,Mid-Level,India,1,1,6.4,3.6,10.0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Accolite Digital,Data Scientist,Data Scientist,Mid-Level,India,0,0,14.5,6.0,19.5,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wipro Digital,Data Scientist,Data Scientist,Mid-Level,India,1,1,11.1,7.0,17.5,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CSS Corp,Data Scientist,Data Scientist,Mid-Level,India,0,0,10.2,7.0,14.5,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Morgan Stanley,Data Scientist,Data Scientist,Mid-Level,India,2,2,18.1,10.5,23.6,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zee Entertainment Enterprises,Data Scientist,Data Scientist,Mid-Level,India,1,1,16.7,13.2,23.0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ola Cabs,Data Scientist,Data Scientist,Mid-Level,India,1,1,21.9,13.0,30.0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NatWest Markets,Data Scientist,Data Scientist,Mid-Level,India,1,1,16.0,11.0,26.0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Myntra,Data Scientist,Data Scientist,Mid-Level,India,2,2,16.9,8.3,33.0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TCS,Business Analyst,Data Analyst,Mid-Level,India,2,2,6.9,3.0,12.0,4200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Accenture,Business Analyst,Data Analyst,Mid-Level,India,1,1,7.0,2.7,14.7,1900,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Genpact,Business Analyst,Data Analyst,Mid-Level,India,1,1,6.4,4.5,9.0,1700,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wipro,Business Analyst,Data Analyst,Mid-Level,India,2,2,8.6,4.2,15.5,1200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cognizant,Business Analyst,Data Analyst,Mid-Level,India,1,1,8.6,4.5,14.0,1100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Deloitte,Business Analyst,Data Analyst,Mid-Level,India,1,1,7.8,5.0,12.0,991,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HCL Technologies,Business Analyst,Data Analyst,Mid-Level,India,1,1,6.6,2.3,14.2,714,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Evalueserve,Business Analyst,Data Analyst,Mid-Level,India,1,1,6.5,4.7,8.5,693,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Infosys,Business Analyst,Data Analyst,Mid-Level,India,1,1,8.9,4.4,16.5,692,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IBM,Business Analyst,Data Analyst,Mid-Level,India,2,2,8.3,4.0,16.0,662,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DXC Technology,Business Analyst,Data Analyst,Mid-Level,India,2,2,7.7,4.1,13.0,580,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tech Mahindra,Business Analyst,Data Analyst,Mid-Level,India,2,2,7.6,3.8,15.0,575,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+American Express,Business Analyst,Data Analyst,Mid-Level,India,1,1,8.3,3.0,19.0,539,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Capgemini,Business Analyst,Data Analyst,Mid-Level,India,2,2,9.1,4.3,15.0,531,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Societe Generale,Business Analyst,Data Analyst,Mid-Level,India,3,3,13.5,7.6,21.0,514,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EXL Service,Business Analyst,Data Analyst,Mid-Level,India,0,0,6.2,4.5,8.5,476,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Amazon,Business Analyst,Data Analyst,Mid-Level,India,2,2,11.3,4.8,20.0,445,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,Business Analyst,Data Analyst,Mid-Level,India,2,2,12.1,5.0,21.0,382,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ICICI Bank,Business Analyst,Data Analyst,Mid-Level,India,1,1,6.7,4.0,12.6,326,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JP Morgan Chase,Business Analyst,Data Analyst,Mid-Level,India,2,2,12.4,5.7,21.7,323,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zomato,Business Analyst,Data Analyst,Mid-Level,India,1,1,10.7,8.3,12.0,274,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+L&T Infotech,Business Analyst,Data Analyst,Mid-Level,India,2,2,9.7,4.5,16.6,271,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shell,Business Analyst,Data Analyst,Mid-Level,India,4,4,19.5,12.0,30.0,258,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Barclays,Business Analyst,Data Analyst,Mid-Level,India,2,2,12.3,5.5,19.4,255,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cgi Group,Business Analyst,Data Analyst,Mid-Level,India,2,2,6.9,4.7,11.0,252,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oracle,Business Analyst,Data Analyst,Mid-Level,India,1,1,5.5,3.4,10.0,243,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Amdocs,Business Analyst,Data Analyst,Mid-Level,India,4,4,12.1,6.8,20.0,236,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Conduent,Business Analyst,Data Analyst,Mid-Level,India,2,2,6.1,4.0,9.4,225,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fidelity National Information Services,Business Analyst,Data Analyst,Mid-Level,India,3,3,10.8,5.8,18.0,214,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HDFC Bank,Business Analyst,Data Analyst,Mid-Level,India,2,2,7.9,4.1,12.0,208,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Novo Nordisk,Business Analyst,Data Analyst,Mid-Level,India,4,4,11.5,8.0,15.2,207,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Axis Bank,Business Analyst,Data Analyst,Mid-Level,India,1,1,9.7,4.2,15.0,199,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ernst & Young,Business Analyst,Data Analyst,Mid-Level,India,1,1,8.8,4.0,20.0,198,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Credit Suisse,Business Analyst,Data Analyst,Mid-Level,India,2,2,15.2,10.0,23.0,179,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hewlett-Packard Enterprise,Business Analyst,Data Analyst,Mid-Level,India,2,2,6.7,3.6,11.5,175,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CG Foods,Business Analyst,Data Analyst,Mid-Level,India,0,0,4.8,2.0,10.0,175,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Quantiphi Analytics Solutions,Business Analyst,Data Analyst,Mid-Level,India,0,0,8.9,6.5,13.0,167,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NetCracker,Business Analyst,Data Analyst,Mid-Level,India,5,5,18.7,12.0,28.0,159,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oyo Rooms,Business Analyst,Data Analyst,Mid-Level,India,0,0,10.2,6.0,14.0,153,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VMware Software,Business Analyst,Data Analyst,Mid-Level,India,3,3,9.8,6.0,15.0,153,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mphasis,Business Analyst,Data Analyst,Mid-Level,India,1,1,10.0,3.5,19.0,151,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Exl India,Business Analyst,Data Analyst,Mid-Level,India,0,0,6.3,4.5,8.6,147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mindtree,Business Analyst,Data Analyst,Mid-Level,India,2,2,9.5,5.5,15.0,144,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Newgen Software Technologies,Business Analyst,Data Analyst,Mid-Level,India,2,2,9.3,7.0,11.5,138,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NTT DATA,Business Analyst,Data Analyst,Mid-Level,India,2,2,7.3,4.5,14.0,133,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hexaware Technologies,Business Analyst,Data Analyst,Mid-Level,India,2,2,10.0,4.2,16.8,131,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Temenos,Business Analyst,Data Analyst,Mid-Level,India,2,2,8.8,5.6,12.2,128,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wells Fargo India,Business Analyst,Data Analyst,Mid-Level,India,3,3,12.0,6.2,20.8,128,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Barclays Shared Services,Business Analyst,Data Analyst,Mid-Level,India,1,1,8.3,3.8,14.2,127,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bridgei2i Analytics Solutions,Business Analyst,Data Analyst,Mid-Level,India,0,0,6.0,5.0,8.0,124,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tata Technologies,Business Analyst,Data Analyst,Mid-Level,India,3,3,6.4,4.3,8.9,119,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Standard Chartered Bank,Business Analyst,Data Analyst,Mid-Level,India,2,2,12.0,6.0,20.0,117,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mu Sigma,Business Analyst,Data Analyst,Mid-Level,India,1,1,6.9,5.5,9.0,116,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Virtusa Consulting Services,Business Analyst,Data Analyst,Mid-Level,India,2,2,10.6,5.0,18.5,111,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Allianz Technology,Business Analyst,Data Analyst,Mid-Level,India,3,3,8.2,5.1,12.0,110,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kotak Mahindra Bank,Business Analyst,Data Analyst,Mid-Level,India,1,1,7.5,3.0,15.5,106,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Citicorp,Business Analyst,Data Analyst,Mid-Level,India,2,2,15.6,7.8,21.3,106,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP Paribas,Business Analyst,Data Analyst,Mid-Level,India,3,3,10.7,6.7,16.3,105,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UST,Business Analyst,Data Analyst,Mid-Level,India,3,3,11.1,5.5,17.5,103,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Flipkart,Business Analyst,Data Analyst,Mid-Level,India,1,1,12.3,4.7,18.9,103,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Barclays Global Service Centre,Business Analyst,Data Analyst,Mid-Level,India,1,1,11.7,4.5,21.6,102,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNY Mellon,Business Analyst,Data Analyst,Mid-Level,India,3,3,8.5,4.5,17.5,101,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Optum,Business Analyst,Data Analyst,Mid-Level,India,2,2,8.6,4.8,17.1,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ola Cabs,Business Analyst,Data Analyst,Mid-Level,India,0,0,11.3,7.7,15.0,99,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBS,Business Analyst,Data Analyst,Mid-Level,India,2,2,14.5,7.5,23.5,97,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Odessa,Business Analyst,Data Analyst,Mid-Level,India,1,1,11.0,8.4,13.0,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bnp paribas india solutions,Business Analyst,Data Analyst,Mid-Level,India,3,3,10.2,6.5,15.0,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UnitedHealth,Business Analyst,Data Analyst,Mid-Level,India,2,2,8.3,5.0,13.0,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HCL Technologies BPO Services,Business Analyst,Data Analyst,Mid-Level,India,1,1,2.3,1.6,4.0,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ramco Systems,Business Analyst,Data Analyst,Mid-Level,India,1,1,7.6,4.5,10.5,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tredence,Business Analyst,Data Analyst,Mid-Level,India,0,0,6.9,6.1,8.5,92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Novartis Healthcare,Business Analyst,Data Analyst,Mid-Level,India,1,1,10.0,7.0,14.2,92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Atos Syntel,Business Analyst,Data Analyst,Mid-Level,India,2,2,7.6,4.0,13.0,92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cisco Systems,Business Analyst,Data Analyst,Mid-Level,India,2,2,12.5,6.0,20.5,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ITC Infotech India,Business Analyst,Data Analyst,Mid-Level,India,1,1,7.8,4.5,14.0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Deutsche Bank,Business Analyst,Data Analyst,Mid-Level,India,2,2,9.1,3.3,19.0,89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dell,Business Analyst,Data Analyst,Mid-Level,India,2,2,7.0,4.6,10.2,89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Paytm,Business Analyst,Data Analyst,Mid-Level,India,1,1,7.7,3.9,15.0,89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3i Infotech,Business Analyst,Data Analyst,Mid-Level,India,1,1,6.1,3.9,8.8,88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KPMG,Business Analyst,Data Analyst,Mid-Level,India,1,1,8.2,3.6,16.0,87,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fiserv,Business Analyst,Data Analyst,Mid-Level,India,3,3,11.6,7.0,20.0,86,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zensar Technologies,Business Analyst,Data Analyst,Mid-Level,India,2,2,6.7,4.1,14.5,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Legato Health Technologies,Business Analyst,Data Analyst,Mid-Level,India,3,3,8.0,5.0,14.0,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swiggy,Business Analyst,Data Analyst,Mid-Level,India,1,1,13.2,8.0,16.5,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GEP Worldwide,Business Analyst,Data Analyst,Mid-Level,India,0,0,6.4,5.0,8.5,84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Intellect Design Arena,Business Analyst,Data Analyst,Mid-Level,India,2,2,11.2,5.8,16.7,83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Standard Chartered Global Business Services,Business Analyst,Data Analyst,Mid-Level,India,2,2,12.7,5.6,23.2,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZS,Business Analyst,Data Analyst,Mid-Level,India,1,1,9.6,7.0,12.8,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Concentrix Corporation,Business Analyst,Data Analyst,Mid-Level,India,1,1,5.4,2.8,12.0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reliance jio,Business Analyst,Data Analyst,Mid-Level,India,1,1,6.8,3.6,15.0,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NatWest Group,Business Analyst,Data Analyst,Mid-Level,India,2,2,9.5,3.5,18.8,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IQVIA,Business Analyst,Data Analyst,Mid-Level,India,1,1,8.3,4.5,16.7,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PwC,Business Analyst,Data Analyst,Mid-Level,India,1,1,9.9,4.5,17.5,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ValueMomentum,Business Analyst,Data Analyst,Mid-Level,India,1,1,6.1,3.8,9.5,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ADP Solutions,Business Analyst,Data Analyst,Mid-Level,India,3,3,8.2,5.3,15.1,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Provana,Business Analyst,Data Analyst,Mid-Level,India,1,1,4.8,3.5,6.5,73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ANR Software,Business Analyst,Data Analyst,Mid-Level,India,1,1,4.5,3.1,7.0,71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+WNS,Business Analyst,Data Analyst,Mid-Level,India,1,1,6.8,3.8,12.0,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oracle Financial Services Software,Business Analyst,Data Analyst,Mid-Level,India,3,3,10.2,5.6,16.5,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RevGurus Info India,Business Analyst,Data Analyst,Mid-Level,India,0,0,8.3,5.8,11.0,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sapiens,Business Analyst,Data Analyst,Mid-Level,India,2,2,12.5,8.0,16.7,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Etech Global Services,Business Analyst,Data Analyst,Mid-Level,India,1,1,6.4,4.4,8.4,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Citibank,Business Analyst,Data Analyst,Mid-Level,India,2,2,16.7,8.0,24.3,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Coforge,Business Analyst,Data Analyst,Mid-Level,India,5,5,16.1,8.3,24.0,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ABC,Business Analyst,Data Analyst,Mid-Level,India,3,3,13.6,5.2,25.0,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Merkle Sokrati,Business Analyst,Data Analyst,Mid-Level,India,0,0,4.5,4.2,5.0,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+First Source,Business Analyst,Data Analyst,Mid-Level,India,1,1,4.4,2.7,7.0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Meesho,Business Analyst,Data Analyst,Mid-Level,India,0,0,14.0,8.5,18.0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ebix Software India,Business Analyst,Data Analyst,Mid-Level,India,2,2,7.0,4.5,11.5,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Indus Valley Partners,Business Analyst,Data Analyst,Mid-Level,India,1,1,17.0,14.0,20.0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Schlumberger,Business Analyst,Data Analyst,Mid-Level,India,3,3,14.5,9.0,21.0,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Capita,Business Analyst,Data Analyst,Mid-Level,India,1,1,5.9,2.3,13.0,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CRMnext,Business Analyst,Data Analyst,Mid-Level,India,1,1,6.6,5.0,8.0,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NeoSoft Technologies,Business Analyst,Data Analyst,Mid-Level,India,1,1,6.9,3.1,10.0,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NSE.IT,Business Analyst,Data Analyst,Mid-Level,India,1,1,6.8,3.5,12.5,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nokia,Business Analyst,Data Analyst,Mid-Level,India,2,2,9.3,5.5,16.6,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Capco Technologies,Business Analyst,Data Analyst,Mid-Level,India,3,3,13.9,6.0,22.0,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+eClerx,Business Analyst,Data Analyst,Mid-Level,India,1,1,3.7,2.3,9.3,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Affine Analytics,Business Analyst,Data Analyst,Mid-Level,India,0,0,6.8,6.0,8.3,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Exela Technologies,Business Analyst,Data Analyst,Mid-Level,India,3,3,8.3,5.1,12.0,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Analytics Quotient,Business Analyst,Data Analyst,Mid-Level,India,1,1,5.3,4.0,6.8,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NIIT Technologies,Business Analyst,Data Analyst,Mid-Level,India,3,3,11.1,7.0,17.8,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+QualityKiosk Technologies,Business Analyst,Data Analyst,Mid-Level,India,2,2,7.7,3.6,13.0,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fidelity Investment,Business Analyst,Data Analyst,Mid-Level,India,2,2,9.9,6.8,16.0,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Altisource,Business Analyst,Data Analyst,Mid-Level,India,2,2,5.5,3.3,9.0,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Polestar Solutions & Services India,Business Analyst,Data Analyst,Mid-Level,India,0,0,6.1,4.2,8.8,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Veeraraghavan & Company,Business Analyst,Data Analyst,Mid-Level,India,0,0,1.7,1.2,2.3,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Verizon,Business Analyst,Data Analyst,Mid-Level,India,3,3,10.5,6.3,16.3,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BYJU'S,Business Analyst,Data Analyst,Mid-Level,India,1,1,7.7,4.0,13.0,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bank of America,Business Analyst,Data Analyst,Mid-Level,India,3,3,14.1,8.1,21.5,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Better.com,Business Analyst,Data Analyst,Mid-Level,India,1,1,7.8,6.0,11.2,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KJ System,Business Analyst,Data Analyst,Mid-Level,India,1,1,2.9,2.4,3.6,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ValueLabs,Business Analyst,Data Analyst,Mid-Level,India,4,4,11.3,6.1,18.5,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Xyz Company,Business Analyst,Data Analyst,Mid-Level,India,3,3,12.3,4.4,23.0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IndusInd Bank,Business Analyst,Data Analyst,Mid-Level,India,2,2,8.0,4.0,14.3,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vinculum Solutions,Business Analyst,Data Analyst,Mid-Level,India,1,1,8.8,6.0,13.0,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Confidential,Business Analyst,Data Analyst,Mid-Level,India,1,1,8.3,4.2,16.0,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Infosys BPM,Business Analyst,Data Analyst,Mid-Level,India,0,0,6.0,2.5,13.0,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+General Mills,Business Analyst,Data Analyst,Mid-Level,India,2,2,9.7,7.0,12.0,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Yash Technologies,Business Analyst,Data Analyst,Mid-Level,India,4,4,8.9,6.1,12.3,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shipco Transport,Business Analyst,Data Analyst,Mid-Level,India,1,1,3.4,2.1,5.0,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aon,Business Analyst,Data Analyst,Mid-Level,India,2,2,5.4,3.5,9.6,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Persistent Systems,Business Analyst,Data Analyst,Mid-Level,India,4,4,12.5,8.5,18.4,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unisys,Business Analyst,Data Analyst,Mid-Level,India,2,2,7.7,4.0,12.0,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Azentio,Business Analyst,Data Analyst,Mid-Level,India,0,0,7.1,4.3,11.0,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Synechron,Business Analyst,Data Analyst,Mid-Level,India,4,4,16.4,9.9,22.0,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ford Motor,Business Analyst,Data Analyst,Mid-Level,India,2,2,8.1,2.9,14.0,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Birlasoft,Business Analyst,Data Analyst,Mid-Level,India,2,2,8.5,4.5,15.0,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cybage,Business Analyst,Data Analyst,Mid-Level,India,5,5,14.6,10.1,20.0,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lentra AI,Business Analyst,Data Analyst,Mid-Level,India,1,1,6.8,4.1,11.0,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+N+A,Business Analyst,Data Analyst,Mid-Level,India,1,1,6.3,2.5,11.0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IVY Comptech,Business Analyst,Data Analyst,Mid-Level,India,4,4,14.6,8.5,20.0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+S&P Global,Business Analyst,Data Analyst,Mid-Level,India,3,3,11.1,7.5,17.0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gartner,Business Analyst,Data Analyst,Mid-Level,India,1,1,14.2,10.0,19.0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Acidaes Solutions,Business Analyst,Data Analyst,Mid-Level,India,2,2,7.0,5.0,10.0,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Udaan,Business Analyst,Data Analyst,Mid-Level,India,1,1,11.6,4.8,18.0,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reliance Industries,Business Analyst,Data Analyst,Mid-Level,India,2,2,8.1,4.9,14.4,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dell EMC,Business Analyst,Data Analyst,Mid-Level,India,2,2,6.6,3.8,10.1,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GlobalLogic,Business Analyst,Data Analyst,Mid-Level,India,2,2,9.0,2.5,20.0,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+eClinicalWorks,Business Analyst,Data Analyst,Mid-Level,India,2,2,5.3,3.8,8.3,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ThoughtWorks,Business Analyst,Data Analyst,Mid-Level,India,2,2,14.7,8.5,26.0,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Landmark Group,Business Analyst,Data Analyst,Mid-Level,India,2,2,11.6,7.5,15.0,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Merilytics,Business Analyst,Data Analyst,Mid-Level,India,0,0,7.0,5.5,8.0,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Care Health Insurance,Business Analyst,Data Analyst,Mid-Level,India,0,0,5.9,3.3,8.4,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Epsilon,Business Analyst,Data Analyst,Mid-Level,India,2,2,9.7,6.0,16.5,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gartner India Research and Advisory Services,Business Analyst,Data Analyst,Mid-Level,India,2,2,15.4,10.0,20.0,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Globant,Business Analyst,Data Analyst,Mid-Level,India,3,3,13.3,9.0,20.9,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Franklin Templeton Investments,Business Analyst,Data Analyst,Mid-Level,India,4,4,8.2,4.7,12.5,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Atidiv,Business Analyst,Data Analyst,Mid-Level,India,1,1,3.0,2.2,4.0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maersk,Business Analyst,Data Analyst,Mid-Level,India,4,4,8.9,5.0,16.0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pboplus Consulting Services,Business Analyst,Data Analyst,Mid-Level,India,0,0,4.0,3.0,5.2,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reliance Retail,Business Analyst,Data Analyst,Mid-Level,India,1,1,7.0,3.5,13.0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Larsen & Toubro Limited,Business Analyst,Data Analyst,Mid-Level,India,0,0,8.5,3.8,14.0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TEKsystems,Business Analyst,Data Analyst,Mid-Level,India,3,3,12.0,7.1,18.5,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindustan Unilever,Business Analyst,Data Analyst,Mid-Level,India,2,2,7.1,3.4,10.7,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tata Communications,Business Analyst,Data Analyst,Mid-Level,India,1,1,5.0,2.9,9.2,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ameriprise Financial,Business Analyst,Data Analyst,Mid-Level,India,1,1,5.9,3.9,9.3,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Goldman Sachs,Business Analyst,Data Analyst,Mid-Level,India,0,0,14.9,6.5,30.0,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Factspan Analytics,Business Analyst,Data Analyst,Mid-Level,India,1,1,8.1,6.5,10.0,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MSC Technology India,Business Analyst,Data Analyst,Mid-Level,India,1,1,4.3,2.9,5.7,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Simplify Healthcare,Business Analyst,Data Analyst,Mid-Level,India,1,1,5.8,4.0,9.5,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CMS Computers Limited (INDIA),Business Analyst,Data Analyst,Mid-Level,India,1,1,4.0,2.6,6.0,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fluentgrid,Business Analyst,Data Analyst,Mid-Level,India,2,2,5.5,3.2,8.8,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bajaj Finserv,Business Analyst,Data Analyst,Mid-Level,India,1,1,9.0,3.8,13.0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ericsson,Business Analyst,Data Analyst,Mid-Level,India,3,3,9.7,5.1,16.0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sonata Software,Business Analyst,Data Analyst,Mid-Level,India,1,1,7.8,5.0,11.5,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CitiusTech,Business Analyst,Data Analyst,Mid-Level,India,2,2,9.0,6.4,12.1,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R1 RCM,Business Analyst,Data Analyst,Mid-Level,India,1,1,3.8,2.7,6.7,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TCS,Data Analyst,Data Analyst,Mid-Level,India,1,1,4.7,2.4,8.9,1600,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cognizant,Data Analyst,Data Analyst,Mid-Level,India,1,1,5.5,2.9,8.3,1200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Accenture,Data Analyst,Data Analyst,Mid-Level,India,1,1,5.2,2.3,11.0,1100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Capgemini,Data Analyst,Data Analyst,Mid-Level,India,0,0,4.6,3.0,9.0,485,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wipro,Data Analyst,Data Analyst,Mid-Level,India,1,1,4.8,2.2,9.0,475,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GlobalLogic,Data Analyst,Data Analyst,Mid-Level,India,1,1,2.5,2.0,3.5,415,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tech Mahindra,Data Analyst,Data Analyst,Mid-Level,India,1,1,4.6,2.2,7.5,397,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Amazon,Data Analyst,Data Analyst,Mid-Level,India,1,1,5.2,2.5,15.3,380,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Infosys,Data Analyst,Data Analyst,Mid-Level,India,1,1,5.7,3.4,12.0,323,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HCL Technologies,Data Analyst,Data Analyst,Mid-Level,India,1,1,4.5,2.4,9.5,320,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+eClerx,Data Analyst,Data Analyst,Mid-Level,India,0,0,2.5,2.0,3.9,302,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IBM,Data Analyst,Data Analyst,Mid-Level,India,2,2,7.6,4.0,15.5,297,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ernst & Young,Data Analyst,Data Analyst,Mid-Level,India,1,1,5.8,3.4,10.5,297,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Flipkart,Data Analyst,Data Analyst,Mid-Level,India,1,1,5.9,3.2,12.0,241,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Genpact,Data Analyst,Data Analyst,Mid-Level,India,1,1,4.7,2.5,9.0,228,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Optum,Data Analyst,Data Analyst,Mid-Level,India,2,2,12.8,6.0,19.0,219,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Concentrix Corporation,Data Analyst,Data Analyst,Mid-Level,India,1,1,3.9,2.4,6.3,209,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Deloitte,Data Analyst,Data Analyst,Mid-Level,India,1,1,7.6,4.3,13.0,202,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zen3 Info Solutions,Data Analyst,Data Analyst,Mid-Level,India,1,1,3.1,2.2,4.2,188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unilog Content Solutions ( P),Data Analyst,Data Analyst,Mid-Level,India,1,1,2.5,2.0,3.2,181,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cogencis Information Services,Data Analyst,Data Analyst,Mid-Level,India,1,1,1.7,1.2,2.6,175,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UnitedHealth,Data Analyst,Data Analyst,Mid-Level,India,2,2,10.7,3.3,18.0,171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Qualsquad Infotech,Data Analyst,Data Analyst,Mid-Level,India,0,0,2.0,1.1,3.0,149,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NTT DATA,Data Analyst,Data Analyst,Mid-Level,India,1,1,4.3,2.1,8.0,138,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+InnovAccer,Data Analyst,Data Analyst,Mid-Level,India,0,0,9.2,5.0,13.0,137,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Teleperformance,Data Analyst,Data Analyst,Mid-Level,India,1,1,2.4,1.8,4.4,132,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mindtree,Data Analyst,Data Analyst,Mid-Level,India,1,1,5.6,4.0,9.6,132,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ericsson,Data Analyst,Data Analyst,Mid-Level,India,2,2,5.8,4.0,10.0,126,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Apex CoVantage,Data Analyst,Data Analyst,Mid-Level,India,0,0,1.8,1.1,3.0,123,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tiger Analytics,Data Analyst,Data Analyst,Mid-Level,India,0,0,8.8,7.5,12.0,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cyient,Data Analyst,Data Analyst,Mid-Level,India,1,1,3.4,1.8,6.7,119,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Urjanet Energy Solutions,Data Analyst,Data Analyst,Mid-Level,India,1,1,2.7,2.0,4.2,118,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,Data Analyst,Data Analyst,Mid-Level,India,1,1,8.0,3.4,12.4,117,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DXC Technology,Data Analyst,Data Analyst,Mid-Level,India,1,1,5.4,3.7,10.2,109,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+QUADRANT RESOURCE LLC,Data Analyst,Data Analyst,Mid-Level,India,1,1,3.0,1.5,4.0,109,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PwC,Data Analyst,Data Analyst,Mid-Level,India,0,0,6.3,3.2,12.0,108,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LatentView Analytics,Data Analyst,Data Analyst,Mid-Level,India,0,0,6.3,5.0,9.0,104,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EXL Service,Data Analyst,Data Analyst,Mid-Level,India,1,1,5.0,2.2,9.1,102,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KPMG,Data Analyst,Data Analyst,Mid-Level,India,1,1,6.7,3.0,12.0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+WNS,Data Analyst,Data Analyst,Mid-Level,India,1,1,5.2,2.0,8.9,98,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Myntra,Data Analyst,Data Analyst,Mid-Level,India,1,1,9.6,4.8,14.0,98,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IQVIA,Data Analyst,Data Analyst,Mid-Level,India,1,1,7.3,4.1,12.0,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ugam Solution,Data Analyst,Data Analyst,Mid-Level,India,0,0,4.6,1.8,8.0,92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bharti Airtel,Data Analyst,Data Analyst,Mid-Level,India,1,1,4.6,2.6,11.0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ICICI Bank,Data Analyst,Data Analyst,Mid-Level,India,1,1,4.9,2.5,10.0,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Walmart,Data Analyst,Data Analyst,Mid-Level,India,1,1,13.9,3.8,30.0,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JP Morgan Chase,Data Analyst,Data Analyst,Mid-Level,India,2,2,10.0,4.1,20.0,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kantar,Data Analyst,Data Analyst,Mid-Level,India,1,1,4.2,3.0,5.7,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+S&P Global,Data Analyst,Data Analyst,Mid-Level,India,1,1,4.4,3.1,8.0,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Axtria,Data Analyst,Data Analyst,Mid-Level,India,0,0,8.8,6.0,13.5,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+L&T Infotech,Data Analyst,Data Analyst,Mid-Level,India,1,1,6.6,3.8,14.5,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nielsen,Data Analyst,Data Analyst,Mid-Level,India,1,1,4.0,2.4,7.3,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Citicorp,Data Analyst,Data Analyst,Mid-Level,India,1,1,12.2,8.5,17.1,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Morningstar,Data Analyst,Data Analyst,Mid-Level,India,0,0,3.6,3.0,4.8,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TheMathCompany,Data Analyst,Data Analyst,Mid-Level,India,0,0,5.2,4.5,8.0,73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hewlett-Packard Enterprise,Data Analyst,Data Analyst,Mid-Level,India,2,2,6.6,3.5,10.0,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Datamatics Global Services,Data Analyst,Data Analyst,Mid-Level,India,0,0,2.1,1.0,5.4,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HERE Technologies,Data Analyst,Data Analyst,Mid-Level,India,0,0,2.6,2.0,4.0,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HDFC Bank,Data Analyst,Data Analyst,Mid-Level,India,1,1,4.6,2.0,10.3,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nvidia,Data Analyst,Data Analyst,Mid-Level,India,1,1,3.3,2.5,4.1,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dell,Data Analyst,Data Analyst,Mid-Level,India,1,1,5.8,2.5,12.0,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zensar Technologies,Data Analyst,Data Analyst,Mid-Level,India,1,1,4.4,2.9,6.5,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vodafone Idea,Data Analyst,Data Analyst,Mid-Level,India,2,2,5.7,3.0,11.0,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ardem Data Services,Data Analyst,Data Analyst,Mid-Level,India,0,0,1.9,1.1,3.0,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fiserv,Data Analyst,Data Analyst,Mid-Level,India,2,2,11.5,6.0,17.0,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Verificient Technologies,Data Analyst,Data Analyst,Mid-Level,India,0,0,2.2,1.8,3.3,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CRG Solutions,Data Analyst,Data Analyst,Mid-Level,India,1,1,5.8,3.7,9.0,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oracle,Data Analyst,Data Analyst,Mid-Level,India,1,1,5.8,3.1,13.9,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Google,Data Analyst,Data Analyst,Mid-Level,India,1,1,15.5,2.6,50.0,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swiggy,Data Analyst,Data Analyst,Mid-Level,India,1,1,4.4,3.1,7.3,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kriya It,Data Analyst,Data Analyst,Mid-Level,India,0,0,1.6,1.0,2.5,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reliance jio,Data Analyst,Data Analyst,Mid-Level,India,1,1,5.6,3.5,10.5,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mphasis,Data Analyst,Data Analyst,Mid-Level,India,1,1,5.1,2.1,9.5,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wells Fargo India,Data Analyst,Data Analyst,Mid-Level,India,1,1,10.3,3.1,20.0,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FE fundinfo,Data Analyst,Data Analyst,Mid-Level,India,0,0,3.3,2.5,4.0,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oyo Rooms,Data Analyst,Data Analyst,Mid-Level,India,1,1,6.5,3.4,11.5,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Competent Software,Data Analyst,Data Analyst,Mid-Level,India,1,1,3.1,2.0,4.1,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Udaan,Data Analyst,Data Analyst,Mid-Level,India,1,1,5.0,3.0,9.0,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Continental Automotive Components,Data Analyst,Data Analyst,Mid-Level,India,1,1,2.6,2.2,3.5,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E2OPEN,Data Analyst,Data Analyst,Mid-Level,India,2,2,4.1,3.2,5.7,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IHS Markit,Data Analyst,Data Analyst,Mid-Level,India,1,1,5.8,3.5,9.5,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fidelity National Financial,Data Analyst,Data Analyst,Mid-Level,India,0,0,3.3,1.9,4.2,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Proziod Analytics,Data Analyst,Data Analyst,Mid-Level,India,1,1,3.5,3.0,4.5,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+American Express,Data Analyst,Data Analyst,Mid-Level,India,1,1,9.5,3.2,18.0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bajaj Finserv,Data Analyst,Data Analyst,Mid-Level,India,0,0,6.5,2.0,12.0,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Optimint Solutions,Data Analyst,Data Analyst,Mid-Level,India,0,0,2.2,1.7,3.0,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mu Sigma,Data Analyst,Data Analyst,Mid-Level,India,1,1,7.8,5.0,14.5,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Course5,Data Analyst,Data Analyst,Mid-Level,India,0,0,3.5,3.0,5.1,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Paytm,Data Analyst,Data Analyst,Mid-Level,India,2,2,6.0,3.0,12.5,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Straive,Data Analyst,Data Analyst,Mid-Level,India,0,0,2.4,1.8,3.0,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Honeywell Technology Solutions,Data Analyst,Data Analyst,Mid-Level,India,2,2,9.4,5.0,13.0,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Intelligent Image Management Inc,Data Analyst,Data Analyst,Mid-Level,India,0,0,1.4,,2.0,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UnitedLex,Data Analyst,Data Analyst,Mid-Level,India,1,1,3.1,2.5,4.2,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fidelity National Information Services,Data Analyst,Data Analyst,Mid-Level,India,1,1,5.0,2.7,8.1,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Barclays,Data Analyst,Data Analyst,Mid-Level,India,1,1,11.2,6.5,19.0,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Novartis Healthcare,Data Analyst,Data Analyst,Mid-Level,India,2,2,10.3,6.7,14.2,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R1 RCM,Data Analyst,Data Analyst,Mid-Level,India,1,1,3.4,2.3,5.5,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nokia,Data Analyst,Data Analyst,Mid-Level,India,0,0,4.2,2.2,8.0,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bahar Infocons,Data Analyst,Data Analyst,Mid-Level,India,1,1,2.2,1.4,3.1,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Axis Bank,Data Analyst,Data Analyst,Mid-Level,India,0,0,8.2,4.0,14.0,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Freelancer.com,Data Analyst,Data Analyst,Mid-Level,India,1,1,3.7,1.5,7.0,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Virtusa Consulting Services,Data Analyst,Data Analyst,Mid-Level,India,1,1,4.2,2.2,8.8,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aon,Data Analyst,Data Analyst,Mid-Level,India,0,0,4.6,2.9,8.5,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Conduent,Data Analyst,Data Analyst,Mid-Level,India,1,1,3.9,1.6,6.4,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Schneider Electric,Data Analyst,Data Analyst,Mid-Level,India,1,1,6.3,3.0,12.1,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Citibank,Data Analyst,Data Analyst,Mid-Level,India,0,0,10.4,4.1,15.8,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sphera Solutions,Data Analyst,Data Analyst,Mid-Level,India,0,0,3.4,3.2,3.8,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Systech Solutions,Data Analyst,Data Analyst,Mid-Level,India,0,0,4.7,3.8,7.5,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ford Motor,Data Analyst,Data Analyst,Mid-Level,India,1,1,9.6,5.0,13.1,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+First Source,Data Analyst,Data Analyst,Mid-Level,India,1,1,2.7,1.5,4.9,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+S&P Global Market Intelligence,Data Analyst,Data Analyst,Mid-Level,India,1,1,4.1,3.0,6.1,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UST,Data Analyst,Data Analyst,Mid-Level,India,2,2,7.4,3.8,12.0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG Analytics,Data Analyst,Data Analyst,Mid-Level,India,1,1,4.6,3.0,6.3,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Indegene,Data Analyst,Data Analyst,Mid-Level,India,1,1,9.0,7.5,10.9,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cisco Systems,Data Analyst,Data Analyst,Mid-Level,India,3,3,9.0,4.0,21.7,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Huawei Technologies,Data Analyst,Data Analyst,Mid-Level,India,2,2,4.3,3.3,5.8,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Entry,Data Analyst,Data Analyst,Mid-Level,India,0,0,1.7,,3.4,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shell,Data Analyst,Data Analyst,Mid-Level,India,2,2,13.3,6.0,21.7,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Harman Connected Services,Data Analyst,Data Analyst,Mid-Level,India,2,2,6.0,3.5,12.6,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Johnson & Johnson,Data Analyst,Data Analyst,Mid-Level,India,1,1,5.0,3.0,10.5,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+InSync Analytics,Data Analyst,Data Analyst,Mid-Level,India,1,1,2.5,1.9,3.3,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Larsen & Toubro Limited,Data Analyst,Data Analyst,Mid-Level,India,1,1,5.0,2.0,9.0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Yardi Systems,Data Analyst,Data Analyst,Mid-Level,India,2,2,3.7,2.7,4.6,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Freelance Consultants,Data Analyst,Data Analyst,Mid-Level,India,1,1,3.8,1.8,6.1,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brillio,Data Analyst,Data Analyst,Mid-Level,India,0,0,5.8,4.0,11.0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Yodlee,Data Analyst,Data Analyst,Mid-Level,India,1,1,5.5,3.9,8.6,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ABC,Data Analyst,Data Analyst,Mid-Level,India,1,1,9.6,3.0,24.0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JLL,Data Analyst,Data Analyst,Mid-Level,India,1,1,5.4,3.5,9.2,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sapient Corporation,Data Analyst,Data Analyst,Mid-Level,India,2,2,7.9,5.0,12.0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZS,Data Analyst,Data Analyst,Mid-Level,India,1,1,10.6,7.0,16.0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Uber,Data Analyst,Data Analyst,Mid-Level,India,1,1,13.0,6.5,30.0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Numeratr,Data Analyst,Data Analyst,Mid-Level,India,0,0,3.0,2.0,4.4,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Yukthi Datasoft,Data Analyst,Data Analyst,Mid-Level,India,1,1,2.1,1.5,2.9,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Infosys BPM,Data Analyst,Data Analyst,Mid-Level,India,1,1,3.8,2.1,7.8,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hexaware Technologies,Data Analyst,Data Analyst,Mid-Level,India,1,1,6.4,,14.0,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ganit Business Solutions,Data Analyst,Data Analyst,Mid-Level,India,0,0,6.0,6.0,6.0,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fractal Analytics,Data Analyst,Data Analyst,Mid-Level,India,1,1,9.9,4.9,17.5,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CAMP Systems,Data Analyst,Data Analyst,Mid-Level,India,1,1,3.8,3.0,4.6,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Indium Software,Data Analyst,Data Analyst,Mid-Level,India,0,0,7.0,4.0,11.0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Gyan,Data Analyst,Data Analyst,Mid-Level,India,0,0,1.8,1.5,2.0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Randstad,Data Analyst,Data Analyst,Mid-Level,India,1,1,4.2,2.5,8.0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Epsilon,Data Analyst,Data Analyst,Mid-Level,India,1,1,9.9,5.5,16.1,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+N+A,Data Analyst,Data Analyst,Mid-Level,India,0,0,3.7,2.1,6.0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The Smart Cube,Data Analyst,Data Analyst,Mid-Level,India,0,0,7.7,6.3,9.0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dataction Analytics,Data Analyst,Data Analyst,Mid-Level,India,0,0,2.6,1.9,3.5,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TSWRDC WOMEN'S DEGREE COLLEGE,Data Analyst,Data Analyst,Mid-Level,India,0,0,2.5,2.0,3.5,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LiquidHub,Data Analyst,Data Analyst,Mid-Level,India,0,0,2.6,1.4,5.0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sutherland Global Services,Data Analyst,Data Analyst,Mid-Level,India,1,1,4.8,2.8,7.3,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ValueLabs,Data Analyst,Data Analyst,Mid-Level,India,1,1,5.1,2.4,13.8,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HCL Technologies BPO Services,Data Analyst,Data Analyst,Mid-Level,India,1,1,2.9,1.9,5.0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HUDL,Data Analyst,Data Analyst,Mid-Level,India,0,0,2.9,2.0,3.8,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mercedes-Benz Research & Development India,Data Analyst,Data Analyst,Mid-Level,India,1,1,10.2,7.5,15.0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Whitehat jr,Data Analyst,Data Analyst,Mid-Level,India,1,1,5.9,4.3,8.0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Caterpillar Inc,Data Analyst,Data Analyst,Mid-Level,India,1,1,6.2,3.6,10.5,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+General Mills,Data Analyst,Data Analyst,Mid-Level,India,0,0,7.0,5.3,9.2,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BYJU'S,Data Analyst,Data Analyst,Mid-Level,India,1,1,7.0,5.0,15.4,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hinduja Global Solutions,Data Analyst,Data Analyst,Mid-Level,India,1,1,3.7,2.0,6.5,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mercer,Data Analyst,Data Analyst,Mid-Level,India,0,0,4.8,2.3,8.5,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bridgei2i Analytics Solutions,Data Analyst,Data Analyst,Mid-Level,India,0,0,5.3,4.5,7.8,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Annalect,Data Analyst,Data Analyst,Mid-Level,India,0,0,5.6,3.6,7.5,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Verizon,Data Analyst,Data Analyst,Mid-Level,India,1,1,11.4,6.4,17.8,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+McKinsey & Company,Data Analyst,Data Analyst,Mid-Level,India,1,1,15.3,9.0,20.0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ITC Infotech India,Data Analyst,Data Analyst,Mid-Level,India,0,0,7.9,3.7,16.0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vaco Binary Semantics,Data Analyst,Data Analyst,Mid-Level,India,0,0,3.7,2.4,6.0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FedEx Express,Data Analyst,Data Analyst,Mid-Level,India,0,0,7.4,3.3,12.0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Galytix Analytics,Data Analyst,Data Analyst,Mid-Level,India,0,0,6.0,6.0,6.0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VeeTechnologies,Data Analyst,Data Analyst,Mid-Level,India,1,1,1.9,1.2,2.4,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+APA Engineering,Data Analyst,Data Analyst,Mid-Level,India,0,0,2.0,1.5,3.1,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tesco,Data Analyst,Data Analyst,Mid-Level,India,1,1,5.5,3.9,8.9,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBS,Data Analyst,Data Analyst,Mid-Level,India,1,1,9.4,6.0,15.5,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BCG,Data Analyst,Data Analyst,Mid-Level,India,2,2,11.9,6.0,19.4,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reliance Industries,Data Analyst,Data Analyst,Mid-Level,India,1,1,6.3,2.2,9.0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Collegedunia,Data Analyst,Data Analyst,Mid-Level,India,1,1,4.0,3.0,5.4,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Thomson Reuters,Data Analyst,Data Analyst,Mid-Level,India,1,1,4.1,2.1,6.9,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tata Communications,Data Analyst,Data Analyst,Mid-Level,India,0,0,3.9,2.1,5.1,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cerner,Data Analyst,Data Analyst,Mid-Level,India,1,1,7.3,5.2,10.5,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sandcube Analytics,Data Analyst,Data Analyst,Mid-Level,India,0,0,2.3,1.1,3.6,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bank of America,Data Analyst,Data Analyst,Mid-Level,India,2,2,13.9,5.5,20.0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stats Systems India,Data Analyst,Data Analyst,Mid-Level,India,0,0,2.1,1.5,3.1,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Objectways Technologies,Data Analyst,Data Analyst,Mid-Level,India,0,0,1.5,1.2,2.0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Target,Data Analyst,Data Analyst,Mid-Level,India,1,1,8.8,2.9,13.0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PayPal,Data Analyst,Data Analyst,Mid-Level,India,1,1,17.2,8.0,30.0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NISC Export Services,Data Analyst,Data Analyst,Mid-Level,India,1,1,3.2,2.3,5.0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ANZ Banking Group,Data Analyst,Data Analyst,Mid-Level,India,2,2,9.8,4.4,15.6,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hive,Data Analyst,Data Analyst,Mid-Level,India,0,0,4.2,3.5,5.8,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Crif High Mark Credit Information Services,Data Analyst,Data Analyst,Mid-Level,India,2,2,5.5,3.8,8.0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pacecom Technologies,Data Analyst,Data Analyst,Mid-Level,India,0,0,2.1,2.0,2.6,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TCS,Data Engineer,Data Engineer,Mid-Level,India,1,1,5.8,3.9,10.1,819,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IBM,Data Engineer,Data Engineer,Mid-Level,India,1,1,10.4,4.8,18.0,727,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+L&T Infotech,Data Engineer,Data Engineer,Mid-Level,India,1,1,5.7,4.1,9.0,420,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Accenture,Data Engineer,Data Engineer,Mid-Level,India,1,1,9.0,5.0,16.8,332,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cognizant,Data Engineer,Data Engineer,Mid-Level,India,1,1,7.5,4.5,13.3,292,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EC-Mobility,Data Engineer,Data Engineer,Mid-Level,India,1,1,2.1,1.8,2.6,259,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Capgemini,Data Engineer,Data Engineer,Mid-Level,India,1,1,7.4,4.0,13.5,231,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Infosys,Data Engineer,Data Engineer,Mid-Level,India,1,1,5.5,3.6,10.0,196,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fractal Analytics,Data Engineer,Data Engineer,Mid-Level,India,2,2,11.8,8.0,18.0,184,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wipro,Data Engineer,Data Engineer,Mid-Level,India,1,1,6.6,4.0,14.5,175,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Amazon,Data Engineer,Data Engineer,Mid-Level,India,2,2,22.0,11.0,40.0,166,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Quantiphi Analytics Solutions,Data Engineer,Data Engineer,Mid-Level,India,0,0,10.4,6.5,15.0,140,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tech Mahindra,Data Engineer,Data Engineer,Mid-Level,India,2,2,6.5,4.2,13.0,130,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mindtree,Data Engineer,Data Engineer,Mid-Level,India,1,1,6.0,3.9,9.9,124,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DXC Technology,Data Engineer,Data Engineer,Mid-Level,India,1,1,6.6,3.8,12.0,122,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Deloitte,Data Engineer,Data Engineer,Mid-Level,India,1,1,11.8,6.0,18.0,116,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Walmart,Data Engineer,Data Engineer,Mid-Level,India,3,3,22.1,15.0,31.9,88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Optum,Data Engineer,Data Engineer,Mid-Level,India,2,2,11.1,7.9,16.8,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shell,Data Engineer,Data Engineer,Mid-Level,India,1,1,17.2,8.0,24.0,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HCL Technologies,Data Engineer,Data Engineer,Mid-Level,India,1,1,9.0,3.5,18.0,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Futurense Technologies,Data Engineer,Data Engineer,Mid-Level,India,1,1,9.5,7.0,12.0,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tiger Analytics,Data Engineer,Data Engineer,Mid-Level,India,1,1,14.0,7.0,21.0,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Teradata,Data Engineer,Data Engineer,Mid-Level,India,3,3,13.6,8.8,17.5,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Altimetrik,Data Engineer,Data Engineer,Mid-Level,India,1,1,12.6,6.5,22.0,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ernst & Young,Data Engineer,Data Engineer,Mid-Level,India,2,2,12.8,5.2,20.0,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maersk,Data Engineer,Data Engineer,Mid-Level,India,2,2,17.0,7.8,27.8,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UnitedHealth,Data Engineer,Data Engineer,Mid-Level,India,2,2,10.3,6.3,17.3,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Genpact,Data Engineer,Data Engineer,Mid-Level,India,1,1,6.8,3.2,14.0,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PayPal,Data Engineer,Data Engineer,Mid-Level,India,4,4,21.6,12.8,31.0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Enquero,Data Engineer,Data Engineer,Mid-Level,India,1,1,9.5,6.2,15.0,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DataMetica,Data Engineer,Data Engineer,Mid-Level,India,0,0,6.4,4.0,10.7,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ericsson,Data Engineer,Data Engineer,Mid-Level,India,2,2,10.6,5.3,17.5,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GE,Data Engineer,Data Engineer,Mid-Level,India,3,3,12.8,9.6,16.0,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Target,Data Engineer,Data Engineer,Mid-Level,India,0,0,12.9,10.0,17.7,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brillio,Data Engineer,Data Engineer,Mid-Level,India,0,0,7.7,4.5,13.3,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZS,Data Engineer,Data Engineer,Mid-Level,India,1,1,11.7,9.0,16.0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hewlett-Packard Enterprise,Data Engineer,Data Engineer,Mid-Level,India,2,2,8.4,4.5,18.0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reliance jio,Data Engineer,Data Engineer,Mid-Level,India,1,1,8.2,4.5,13.0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sapient Corporation,Data Engineer,Data Engineer,Mid-Level,India,2,2,13.5,9.2,17.0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Larsen & Toubro Limited,Data Engineer,Data Engineer,Mid-Level,India,1,1,5.8,4.0,10.5,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JP Morgan Chase,Data Engineer,Data Engineer,Mid-Level,India,4,4,18.7,8.0,29.0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Societe Generale,Data Engineer,Data Engineer,Mid-Level,India,2,2,16.8,9.6,23.0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bajaj Finserv,Data Engineer,Data Engineer,Mid-Level,India,0,0,10.9,8.0,12.5,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bharti Airtel,Data Engineer,Data Engineer,Mid-Level,India,2,2,4.0,3.0,7.5,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bank of America,Data Engineer,Data Engineer,Mid-Level,India,2,2,15.1,8.1,22.0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mphasis,Data Engineer,Data Engineer,Mid-Level,India,1,1,10.1,4.2,19.0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fragma Data Systems,Data Engineer,Data Engineer,Mid-Level,India,0,0,5.5,3.5,11.9,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NTT DATA,Data Engineer,Data Engineer,Mid-Level,India,2,2,10.4,4.1,25.0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PwC,Data Engineer,Data Engineer,Mid-Level,India,1,1,10.0,5.5,16.5,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KPMG,Data Engineer,Data Engineer,Mid-Level,India,2,2,12.3,7.0,18.0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UST,Data Engineer,Data Engineer,Mid-Level,India,1,1,9.8,3.5,17.0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Virtusa Consulting Services,Data Engineer,Data Engineer,Mid-Level,India,1,1,9.0,4.2,20.0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DBS Bank,Data Engineer,Data Engineer,Mid-Level,India,2,2,13.6,9.1,24.0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Koch Business Solutions,Data Engineer,Data Engineer,Mid-Level,India,4,4,23.6,12.0,34.0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lowe's,Data Engineer,Data Engineer,Mid-Level,India,1,1,12.1,10.0,14.3,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BA Continuum,Data Engineer,Data Engineer,Mid-Level,India,4,4,16.5,12.0,22.8,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dell,Data Engineer,Data Engineer,Mid-Level,India,1,1,12.8,5.5,20.0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Semantics,Data Engineer,Data Engineer,Mid-Level,India,3,3,8.9,4.5,15.5,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BlazeClan Technologies,Data Engineer,Data Engineer,Mid-Level,India,0,0,5.5,3.2,9.6,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Microsoft Corporation,Data Engineer,Data Engineer,Mid-Level,India,3,3,25.1,13.0,40.1,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DataWeave,Data Engineer,Data Engineer,Mid-Level,India,1,1,8.2,5.5,12.0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Celebal Technologies,Data Engineer,Data Engineer,Mid-Level,India,0,0,5.5,4.5,10.0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SpringML,Data Engineer,Data Engineer,Mid-Level,India,1,1,9.7,5.5,14.0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TEKsystems,Data Engineer,Data Engineer,Mid-Level,India,1,1,9.7,6.0,18.0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NatWest Group,Data Engineer,Data Engineer,Mid-Level,India,2,2,20.4,11.1,32.0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Saama Technologies,Data Engineer,Data Engineer,Mid-Level,India,2,2,9.7,6.0,14.5,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GE Aviation,Data Engineer,Data Engineer,Mid-Level,India,2,2,12.2,9.0,16.0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Affine Analytics,Data Engineer,Data Engineer,Mid-Level,India,0,0,7.7,6.0,12.0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wells Fargo India,Data Engineer,Data Engineer,Mid-Level,India,3,3,15.2,10.1,22.0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EXL Service,Data Engineer,Data Engineer,Mid-Level,India,2,2,10.3,6.0,14.1,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+McKinsey & Company,Data Engineer,Data Engineer,Mid-Level,India,2,2,18.5,10.0,25.0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cisco Systems,Data Engineer,Data Engineer,Mid-Level,India,3,3,19.3,12.0,28.0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IDFC FIRST Bank,Data Engineer,Data Engineer,Mid-Level,India,1,1,15.4,8.5,21.9,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ValueLabs,Data Engineer,Data Engineer,Mid-Level,India,1,1,10.3,5.0,23.5,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Paytm,Data Engineer,Data Engineer,Mid-Level,India,2,2,13.9,5.8,23.0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Blackbuck Insights,Data Engineer,Data Engineer,Mid-Level,India,0,0,4.2,2.5,8.5,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lumen Technologies,Data Engineer,Data Engineer,Mid-Level,India,1,1,6.6,4.5,9.2,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Micron Technology,Data Engineer,Data Engineer,Mid-Level,India,3,3,12.9,8.4,18.0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GE Healthcare,Data Engineer,Data Engineer,Mid-Level,India,3,3,12.3,10.0,17.0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IQVIA,Data Engineer,Data Engineer,Mid-Level,India,2,2,10.5,5.5,15.0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG Analytics,Data Engineer,Data Engineer,Mid-Level,India,0,0,7.3,5.2,12.0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wavicle Data Solutions,Data Engineer,Data Engineer,Mid-Level,India,2,2,5.1,3.5,7.2,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mercedes-Benz Research & Development India,Data Engineer,Data Engineer,Mid-Level,India,1,1,13.1,7.0,19.0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LatentView Analytics,Data Engineer,Data Engineer,Mid-Level,India,0,0,7.2,5.3,12.0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Schlumberger,Data Engineer,Data Engineer,Mid-Level,India,2,2,13.7,6.5,22.5,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Adobe,Data Engineer,Data Engineer,Mid-Level,India,3,3,23.7,14.0,34.0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Commonwealth Bank of Australia,Data Engineer,Data Engineer,Mid-Level,India,2,2,19.9,9.9,28.8,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NCR Corporation,Data Engineer,Data Engineer,Mid-Level,India,1,1,9.5,6.2,13.5,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ITC Infotech India,Data Engineer,Data Engineer,Mid-Level,India,1,1,6.8,4.1,13.0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Novartis Healthcare,Data Engineer,Data Engineer,Mid-Level,India,2,2,15.0,9.5,19.5,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Legato Health Technologies,Data Engineer,Data Engineer,Mid-Level,India,2,2,10.8,8.3,13.5,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Honeywell Technology Solutions,Data Engineer,Data Engineer,Mid-Level,India,0,0,11.2,5.0,26.0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hexaware Technologies,Data Engineer,Data Engineer,Mid-Level,India,1,1,11.7,3.5,23.5,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Impetus Technologies,Data Engineer,Data Engineer,Mid-Level,India,1,1,13.1,11.5,16.0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bridgei2i Analytics Solutions,Data Engineer,Data Engineer,Mid-Level,India,0,0,6.7,5.0,10.0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Verizon,Data Engineer,Data Engineer,Mid-Level,India,1,1,10.5,5.6,15.5,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Systech Solutions,Data Engineer,Data Engineer,Mid-Level,India,0,0,4.1,3.3,4.5,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ab Inbev,Data Engineer,Data Engineer,Mid-Level,India,4,4,16.5,8.2,24.0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Neal Analytics,Data Engineer,Data Engineer,Mid-Level,India,1,1,10.5,6.8,16.0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TheMathCompany,Data Engineer,Data Engineer,Mid-Level,India,2,2,9.3,7.0,13.2,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Atos Syntel,Data Engineer,Data Engineer,Mid-Level,India,2,2,7.3,3.8,12.0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lumiq.ai,Data Engineer,Data Engineer,Mid-Level,India,0,0,8.1,6.0,9.5,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Axis Bank,Data Engineer,Data Engineer,Mid-Level,India,0,0,11.1,7.7,14.7,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Google,Data Engineer,Data Engineer,Mid-Level,India,3,3,45.3,16.5,93.5,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maersk Line,Data Engineer,Data Engineer,Mid-Level,India,2,2,12.8,8.0,21.0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AstraZeneca,Data Engineer,Data Engineer,Mid-Level,India,1,1,9.3,6.8,13.5,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Amdocs,Data Engineer,Data Engineer,Mid-Level,India,0,0,8.9,6.1,13.0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MasterCard,Data Engineer,Data Engineer,Mid-Level,India,0,0,15.1,13.0,18.0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Morgan Stanley,Data Engineer,Data Engineer,Mid-Level,India,3,3,20.5,11.0,26.0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tavant Technologies,Data Engineer,Data Engineer,Mid-Level,India,1,1,10.1,5.8,20.0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Flipkart,Data Engineer,Data Engineer,Mid-Level,India,2,2,17.5,9.5,25.0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Michelin,Data Engineer,Data Engineer,Mid-Level,India,0,0,9.8,7.7,11.3,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Concentrix Corporation,Data Engineer,Data Engineer,Mid-Level,India,1,1,3.7,2.6,4.5,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Siemens,Data Engineer,Data Engineer,Mid-Level,India,1,1,12.9,6.8,16.0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mu Sigma,Data Engineer,Data Engineer,Mid-Level,India,1,1,8.4,5.5,12.0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Expedia,Data Engineer,Data Engineer,Mid-Level,India,4,4,27.6,20.0,40.0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Decision Point,Data Engineer,Data Engineer,Mid-Level,India,0,0,5.9,4.8,7.0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Adidas,Data Engineer,Data Engineer,Mid-Level,India,1,1,23.0,14.5,34.0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nokia,Data Engineer,Data Engineer,Mid-Level,India,1,1,10.7,3.6,24.5,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oil Field Instrumentation,Data Engineer,Data Engineer,Mid-Level,India,6,6,6.9,1.2,11.1,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Atos,Data Engineer,Data Engineer,Mid-Level,India,2,2,8.5,3.7,17.8,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bitwise Solutions,Data Engineer,Data Engineer,Mid-Level,India,0,0,6.1,3.8,9.0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ford Motor,Data Engineer,Data Engineer,Mid-Level,India,0,0,10.1,5.7,15.9,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Persistent Systems,Data Engineer,Data Engineer,Mid-Level,India,1,1,11.6,4.2,20.4,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Indium Software,Data Engineer,Data Engineer,Mid-Level,India,0,0,6.8,3.6,11.5,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Citicorp,Data Engineer,Data Engineer,Mid-Level,India,2,2,17.9,13.5,20.0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The Data Team,Data Engineer,Data Engineer,Mid-Level,India,1,1,11.5,8.5,15.0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cittabase Solutions,Data Engineer,Data Engineer,Mid-Level,India,3,3,7.9,5.0,10.3,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NIKE,Data Engineer,Data Engineer,Mid-Level,India,3,3,21.3,14.1,29.0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kyndryl,Data Engineer,Data Engineer,Mid-Level,India,2,2,12.8,8.5,16.0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dunnhumby,Data Engineer,Data Engineer,Mid-Level,India,1,1,12.3,8.7,18.5,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Advance Auto Parts,Data Engineer,Data Engineer,Mid-Level,India,3,3,13.3,10.2,15.5,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rackspace,Data Engineer,Data Engineer,Mid-Level,India,3,3,16.3,11.0,21.6,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tredence,Data Engineer,Data Engineer,Mid-Level,India,2,2,11.4,7.0,16.0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Expert Global Solutions,Data Engineer,Data Engineer,Mid-Level,India,0,0,2.1,1.1,3.1,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cerner,Data Engineer,Data Engineer,Mid-Level,India,2,2,9.9,6.0,14.0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Searce Cosourcing Services,Data Engineer,Data Engineer,Mid-Level,India,1,1,7.4,5.0,12.5,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eli Lilly and Company,Data Engineer,Data Engineer,Mid-Level,India,3,3,18.4,16.0,22.0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ValueMomentum,Data Engineer,Data Engineer,Mid-Level,India,1,1,10.6,4.5,21.3,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+InfoStretch,Data Engineer,Data Engineer,Mid-Level,India,1,1,10.5,4.2,18.0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nagarro,Data Engineer,Data Engineer,Mid-Level,India,2,2,13.1,7.0,25.0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KPI Partners,Data Engineer,Data Engineer,Mid-Level,India,1,1,12.0,5.0,22.0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,Data Engineer,Data Engineer,Mid-Level,India,1,1,9.7,6.5,18.0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bosch Global Software Technologies,Data Engineer,Data Engineer,Mid-Level,India,1,1,7.1,3.8,14.0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Axtria,Data Engineer,Data Engineer,Mid-Level,India,1,1,11.4,7.5,15.3,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Visa,Data Engineer,Data Engineer,Mid-Level,India,1,1,28.7,16.5,37.0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Happiest Minds Technologies,Data Engineer,Data Engineer,Mid-Level,India,0,0,8.0,4.0,14.8,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BYJU'S,Data Engineer,Data Engineer,Mid-Level,India,1,1,9.7,4.5,19.5,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Yash Technologies,Data Engineer,Data Engineer,Mid-Level,India,0,0,5.3,3.2,8.0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GE Digital,Data Engineer,Data Engineer,Mid-Level,India,4,4,12.6,8.3,18.3,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GSK Pharmaceuticals,Data Engineer,Data Engineer,Mid-Level,India,5,5,23.1,19.0,27.0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rakuten,Data Engineer,Data Engineer,Mid-Level,India,0,0,13.3,8.5,18.5,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+InnovAccer,Data Engineer,Data Engineer,Mid-Level,India,1,1,8.2,5.0,15.0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+nThrive Global Solutions,Data Engineer,Data Engineer,Mid-Level,India,2,2,11.8,7.8,17.6,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AI Touch,Data Engineer,Data Engineer,Mid-Level,India,0,0,2.3,2.0,3.0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Autodesk,Data Engineer,Data Engineer,Mid-Level,India,0,0,26.5,6.4,40.0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Knoema IT Solutions,Data Engineer,Data Engineer,Mid-Level,India,0,0,3.3,2.0,4.1,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ecolab Digital Center,Data Engineer,Data Engineer,Mid-Level,India,2,2,11.5,8.5,18.0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,Data Engineer,Data Engineer,Mid-Level,India,3,3,25.0,17.0,35.0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AVASOFT,Data Engineer,Data Engineer,Mid-Level,India,0,0,4.0,3.5,4.9,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+i2e Consulting,Data Engineer,Data Engineer,Mid-Level,India,2,2,13.1,9.0,16.5,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Birlasoft,Data Engineer,Data Engineer,Mid-Level,India,2,2,11.1,5.2,20.1,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EPAM Systems,Data Engineer,Data Engineer,Mid-Level,India,4,4,17.3,8.8,24.0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Xyz Company,Data Engineer,Data Engineer,Mid-Level,India,1,1,12.3,6.0,21.0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colgate Palmolive,Data Engineer,Data Engineer,Mid-Level,India,1,1,10.7,6.0,15.0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BCG,Data Engineer,Data Engineer,Mid-Level,India,2,2,17.2,14.5,19.5,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Apisero,Data Engineer,Data Engineer,Mid-Level,India,1,1,13.5,8.0,18.0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fidelity Investment,Data Engineer,Data Engineer,Mid-Level,India,1,1,13.3,11.0,16.7,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oracle,Data Engineer,Data Engineer,Mid-Level,India,2,2,14.6,7.0,25.0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Accion Labs,Data Engineer,Data Engineer,Mid-Level,India,3,3,18.1,8.0,30.0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dun & Bradstreet,Data Engineer,Data Engineer,Mid-Level,India,3,3,11.4,8.6,15.4,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Webhelp,Data Engineer,Data Engineer,Mid-Level,India,3,3,10.7,8.5,14.0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ags Infotech,Data Engineer,Data Engineer,Mid-Level,India,2,2,5.0,4.4,5.5,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Synechron,Data Engineer,Data Engineer,Mid-Level,India,4,4,17.3,12.5,24.0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GEP Worldwide,Data Engineer,Data Engineer,Mid-Level,India,2,2,13.0,10.1,15.0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Principal Global Services,Data Engineer,Data Engineer,Mid-Level,India,1,1,10.2,9.5,11.1,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Algonomy,Data Engineer,Data Engineer,Mid-Level,India,1,1,7.5,5.0,13.6,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sigmoid Analytics,Data Engineer,Data Engineer,Mid-Level,India,1,1,15.0,12.8,18.5,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vodafone Idea,Data Engineer,Data Engineer,Mid-Level,India,1,1,11.2,2.1,18.0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Clairvoyant India,Data Engineer,Data Engineer,Mid-Level,India,2,2,10.5,5.0,17.0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aktrix Technologies,Data Engineer,Data Engineer,Mid-Level,India,0,0,4.1,3.0,5.5,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ThoughtWorks,Data Engineer,Data Engineer,Mid-Level,India,1,1,15.7,10.0,19.4,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DUNNHUMBY IT SERVICES INDIA,Data Engineer,Data Engineer,Mid-Level,India,1,1,11.9,9.0,14.9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Baker Hughes,Data Engineer,Data Engineer,Mid-Level,India,3,3,14.8,12.0,16.5,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Denodo Technologies,Data Engineer,Data Engineer,Mid-Level,India,0,0,8.0,6.0,10.5,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hashedin By Deloitte,Data Engineer,Data Engineer,Mid-Level,India,2,2,15.0,11.1,19.0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Red Hat,Data Engineer,Data Engineer,Mid-Level,India,2,2,12.4,4.5,17.6,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HDFC Bank,Data Engineer,Data Engineer,Mid-Level,India,2,2,9.0,6.5,12.5,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Accenture,Senior Data Scientist,Data Scientist,Senior,India,3,3,18.9,10.5,30.5,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TCS,Senior Data Scientist,Data Scientist,Senior,India,4,4,16.7,8.6,30.0,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cognizant,Senior Data Scientist,Data Scientist,Senior,India,4,4,17.9,12.0,25.2,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fractal Analytics,Senior Data Scientist,Data Scientist,Senior,India,4,4,25.6,18.0,32.0,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ab Inbev,Senior Data Scientist,Data Scientist,Senior,India,3,3,28.0,22.0,35.0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wipro,Senior Data Scientist,Data Scientist,Senior,India,4,4,16.1,8.0,30.0,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Deloitte,Senior Data Scientist,Data Scientist,Senior,India,5,5,21.2,14.0,35.0,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Walmart,Senior Data Scientist,Data Scientist,Senior,India,5,5,43.0,30.0,65.0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Amazon,Senior Data Scientist,Data Scientist,Senior,India,5,5,41.5,26.0,75.0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UnitedHealth,Senior Data Scientist,Data Scientist,Senior,India,4,4,23.0,15.6,30.5,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ernst & Young,Senior Data Scientist,Data Scientist,Senior,India,4,4,21.4,15.0,30.0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Optum,Senior Data Scientist,Data Scientist,Senior,India,5,5,26.2,18.0,36.0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Impact Analytics,Senior Data Scientist,Data Scientist,Senior,India,2,2,13.4,9.0,19.0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Incedo,Senior Data Scientist,Data Scientist,Senior,India,3,3,18.9,15.0,25.0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IBM,Senior Data Scientist,Data Scientist,Senior,India,5,5,24.4,14.0,36.0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Target,Senior Data Scientist,Data Scientist,Senior,India,2,2,23.8,15.5,30.0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Infosys,Senior Data Scientist,Data Scientist,Senior,India,4,4,18.1,9.0,30.0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TVS Credit Services,Senior Data Scientist,Data Scientist,Senior,India,4,4,14.7,11.5,21.0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ericsson,Senior Data Scientist,Data Scientist,Senior,India,7,7,30.2,14.2,50.6,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Microsoft Corporation,Senior Data Scientist,Data Scientist,Senior,India,4,4,56.4,30.0,100.0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HCL Technologies,Senior Data Scientist,Data Scientist,Senior,India,4,4,19.3,14.4,25.0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Capgemini,Senior Data Scientist,Data Scientist,Senior,India,4,4,16.8,11.5,26.0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dunnhumby,Senior Data Scientist,Data Scientist,Senior,India,3,3,15.4,12.0,22.0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Birlasoft,Senior Data Scientist,Data Scientist,Senior,India,3,3,14.3,8.0,22.3,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tech Mahindra,Senior Data Scientist,Data Scientist,Senior,India,4,4,16.4,7.1,25.0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Affine Analytics,Senior Data Scientist,Data Scientist,Senior,India,1,1,9.9,7.6,16.0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wolters Kluwer,Senior Data Scientist,Data Scientist,Senior,India,6,6,23.7,18.0,30.0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Harman Connected Services,Senior Data Scientist,Data Scientist,Senior,India,4,4,16.0,11.5,22.0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+L&T Infotech,Senior Data Scientist,Data Scientist,Senior,India,2,2,20.0,12.3,28.0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reliance jio,Senior Data Scientist,Data Scientist,Senior,India,4,4,30.0,18.5,46.0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sapient Corporation,Senior Data Scientist,Data Scientist,Senior,India,2,2,21.1,14.2,28.5,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Coforge,Senior Data Scientist,Data Scientist,Senior,India,4,4,15.0,15.0,15.2,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lowe's,Senior Data Scientist,Data Scientist,Senior,India,4,4,25.0,16.0,33.0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Blue Yonder,Senior Data Scientist,Data Scientist,Senior,India,2,2,31.6,18.0,50.0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bosch Global Software Technologies,Senior Data Scientist,Data Scientist,Senior,India,2,2,24.1,16.1,30.0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nielsen,Senior Data Scientist,Data Scientist,Senior,India,2,2,9.9,7.9,13.7,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oracle,Senior Data Scientist,Data Scientist,Senior,India,3,3,25.2,20.0,37.0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Happiest Minds Technologies,Senior Data Scientist,Data Scientist,Senior,India,5,5,16.4,9.0,26.0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DXC Technology,Senior Data Scientist,Data Scientist,Senior,India,7,7,17.1,11.0,25.0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PayPal,Senior Data Scientist,Data Scientist,Senior,India,6,6,40.7,30.0,45.0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Citibank,Senior Data Scientist,Data Scientist,Senior,India,4,4,22.8,16.0,30.0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Innominds Software,Senior Data Scientist,Data Scientist,Senior,India,4,4,18.6,13.5,27.5,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bajaj Finserv,Senior Data Scientist,Data Scientist,Senior,India,1,1,17.6,10.0,27.8,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Honeywell Technology Solutions,Senior Data Scientist,Data Scientist,Senior,India,2,2,18.4,10.0,35.0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+eClerx,Senior Data Scientist,Data Scientist,Senior,India,2,2,15.3,11.0,21.6,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VMware Software,Senior Data Scientist,Data Scientist,Senior,India,2,2,23.1,16.0,36.5,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PwC,Senior Data Scientist,Data Scientist,Senior,India,4,4,21.2,13.0,30.0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EXL Service,Senior Data Scientist,Data Scientist,Senior,India,3,3,19.5,14.5,30.0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mercedes-Benz Research & Development India,Senior Data Scientist,Data Scientist,Senior,India,3,3,18.0,10.0,35.0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mindtree,Senior Data Scientist,Data Scientist,Senior,India,5,5,17.8,9.0,28.1,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wells Fargo India,Senior Data Scientist,Data Scientist,Senior,India,5,5,23.1,14.0,30.0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Genpact,Senior Data Scientist,Data Scientist,Senior,India,4,4,24.2,10.0,35.0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Course5,Senior Data Scientist,Data Scientist,Senior,India,3,3,11.7,9.0,17.0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JP Morgan Chase,Senior Data Scientist,Data Scientist,Senior,India,5,5,27.7,14.0,51.0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MasterCard,Senior Data Scientist,Data Scientist,Senior,India,2,2,25.5,18.2,36.0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GE Healthcare,Senior Data Scientist,Data Scientist,Senior,India,3,3,28.0,24.0,33.0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IHS Markit,Senior Data Scientist,Data Scientist,Senior,India,5,5,22.5,16.0,29.0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NIIT Technologies,Senior Data Scientist,Data Scientist,Senior,India,2,2,15.3,15.0,16.0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gramener,Senior Data Scientist,Data Scientist,Senior,India,2,2,14.4,10.0,20.8,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ford Motor,Senior Data Scientist,Data Scientist,Senior,India,4,4,17.6,16.4,19.5,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TheMathCompany,Senior Data Scientist,Data Scientist,Senior,India,4,4,14.8,12.0,18.0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Legato Health Technologies,Senior Data Scientist,Data Scientist,Senior,India,4,4,21.2,15.6,26.0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dell,Senior Data Scientist,Data Scientist,Senior,India,3,3,23.2,15.0,32.0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Great Learning,Senior Data Scientist,Data Scientist,Senior,India,3,3,12.3,11.0,14.0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Morningstar,Senior Data Scientist,Data Scientist,Senior,India,4,4,19.7,16.2,24.6,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hewlett-Packard Enterprise,Senior Data Scientist,Data Scientist,Senior,India,3,3,20.7,17.0,30.0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tredence,Senior Data Scientist,Data Scientist,Senior,India,3,3,18.4,12.4,26.0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UST,Senior Data Scientist,Data Scientist,Senior,India,3,3,12.1,10.3,16.0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ValueLabs,Senior Data Scientist,Data Scientist,Senior,India,3,3,21.1,10.3,26.5,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Novartis Healthcare,Senior Data Scientist,Data Scientist,Senior,India,5,5,30.5,16.0,51.0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vodafone Idea,Senior Data Scientist,Data Scientist,Senior,India,4,4,22.7,13.1,32.7,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nagarro,Senior Data Scientist,Data Scientist,Senior,India,2,2,18.0,14.3,25.0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HERE Technologies,Senior Data Scientist,Data Scientist,Senior,India,6,6,27.1,22.5,30.0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Globant,Senior Data Scientist,Data Scientist,Senior,India,2,2,17.8,13.0,26.0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Baker Hughes,Senior Data Scientist,Data Scientist,Senior,India,3,3,27.4,23.0,32.0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tiger Analytics,Senior Data Scientist,Data Scientist,Senior,India,5,5,22.2,18.0,27.5,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Epsilon,Senior Data Scientist,Data Scientist,Senior,India,4,4,23.2,19.0,26.0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AntWorks,Senior Data Scientist,Data Scientist,Senior,India,3,3,20.6,14.0,30.0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Altimetrik,Senior Data Scientist,Data Scientist,Senior,India,4,4,18.3,12.0,26.0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Info Edge,Senior Data Scientist,Data Scientist,Senior,India,1,1,30.9,21.0,37.0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sigmoid Analytics,Senior Data Scientist,Data Scientist,Senior,India,2,2,22.5,15.0,30.0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eli Lilly and Company,Senior Data Scientist,Data Scientist,Senior,India,4,4,26.8,22.5,32.0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lam Research,Senior Data Scientist,Data Scientist,Senior,India,3,3,16.5,13.9,20.0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GE Aviation,Senior Data Scientist,Data Scientist,Senior,India,5,5,22.1,14.5,29.0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Iris Software,Senior Data Scientist,Data Scientist,Senior,India,6,6,23.0,17.0,27.0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Claim Genius,Senior Data Scientist,Data Scientist,Senior,India,3,3,21.4,18.4,27.0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZS,Senior Data Scientist,Data Scientist,Senior,India,1,1,18.0,14.5,24.0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mphasis,Senior Data Scientist,Data Scientist,Senior,India,2,2,13.3,11.0,15.4,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NielsenIQ,Senior Data Scientist,Data Scientist,Senior,India,3,3,8.7,8.0,9.4,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mu Sigma,Senior Data Scientist,Data Scientist,Senior,India,3,3,14.5,12.3,15.0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNY Mellon,Senior Data Scientist,Data Scientist,Senior,India,1,1,16.9,5.2,25.0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Yash Technologies,Senior Data Scientist,Data Scientist,Senior,India,5,5,18.4,12.1,23.5,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Franklin Templeton Investments,Senior Data Scientist,Data Scientist,Senior,India,7,7,27.3,22.0,32.0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Philips,Senior Data Scientist,Data Scientist,Senior,India,5,5,22.6,19.0,25.9,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DBS Bank,Senior Data Scientist,Data Scientist,Senior,India,4,4,20.6,16.5,25.0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+International School of Engineering,Senior Data Scientist,Data Scientist,Senior,India,9,9,20.2,15.0,25.0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Johnson Controls,Senior Data Scientist,Data Scientist,Senior,India,4,4,25.1,18.5,32.0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bajaj Finance,Senior Data Scientist,Data Scientist,Senior,India,1,1,20.0,16.0,30.0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ganit Business Solutions,Senior Data Scientist,Data Scientist,Senior,India,5,5,18.9,15.5,21.5,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Xoriant,Senior Data Scientist,Data Scientist,Senior,India,6,6,18.6,15.0,23.5,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+o9 Solutions,Senior Data Scientist,Data Scientist,Senior,India,4,4,21.5,13.5,28.0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Verizon,Senior Data Scientist,Data Scientist,Senior,India,7,7,26.7,11.0,37.0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shell,Senior Data Scientist,Data Scientist,Senior,India,6,6,29.8,22.0,35.5,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zensar Technologies,Senior Data Scientist,Data Scientist,Senior,India,4,4,18.2,14.0,22.0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+McKinsey & Company,Senior Data Scientist,Data Scientist,Senior,India,6,6,18.2,1.0,31.0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Apexon,Senior Data Scientist,Data Scientist,Senior,India,4,4,10.3,9.0,11.1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GE,Senior Data Scientist,Data Scientist,Senior,India,4,4,23.1,16.0,30.0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Johnson & Johnson,Senior Data Scientist,Data Scientist,Senior,India,5,5,24.1,17.0,35.0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cerner,Senior Data Scientist,Data Scientist,Senior,India,6,6,28.9,23.7,35.8,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Algonomy,Senior Data Scientist,Data Scientist,Senior,India,2,2,28.3,23.0,32.0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ecolab Food Safety & Hygiene Solutions,Senior Data Scientist,Data Scientist,Senior,India,4,4,13.9,11.5,18.0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+L&T Technology Services,Senior Data Scientist,Data Scientist,Senior,India,4,4,15.2,9.0,24.0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+American Express,Senior Data Scientist,Data Scientist,Senior,India,3,3,23.3,22.0,25.1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Yum!,Senior Data Scientist,Data Scientist,Senior,India,2,2,15.3,11.0,17.8,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Indium Software,Senior Data Scientist,Data Scientist,Senior,India,2,2,14.5,8.8,20.0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cummins,Senior Data Scientist,Data Scientist,Senior,India,3,3,23.2,17.8,29.9,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eversana,Senior Data Scientist,Data Scientist,Senior,India,4,4,14.3,12.0,17.8,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Paytm,Senior Data Scientist,Data Scientist,Senior,India,3,3,31.6,27.0,40.0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Citicorp,Senior Data Scientist,Data Scientist,Senior,India,6,6,28.3,21.0,35.0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Quantium Analytics,Senior Data Scientist,Data Scientist,Senior,India,5,5,25.0,24.0,27.0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MKS Vision,Senior Data Scientist,Data Scientist,Senior,India,7,7,18.1,15.0,22.0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oyo Rooms,Senior Data Scientist,Data Scientist,Senior,India,3,3,31.0,20.0,42.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Yodlee,Senior Data Scientist,Data Scientist,Senior,India,2,2,32.1,27.0,36.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CitiusTech,Senior Data Scientist,Data Scientist,Senior,India,7,7,17.8,15.0,19.5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SAP,Senior Data Scientist,Data Scientist,Senior,India,7,7,36.6,17.2,51.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Teleperformance,Senior Data Scientist,Data Scientist,Senior,India,3,3,16.2,10.0,20.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+V2 Solutions,Senior Data Scientist,Data Scientist,Senior,India,2,2,8.5,8.5,8.6,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dun & Bradstreet,Senior Data Scientist,Data Scientist,Senior,India,2,2,11.9,9.5,13.5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nvidia,Senior Data Scientist,Data Scientist,Senior,India,2,2,21.3,10.0,28.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AlgoAnalytics Financial Consultancy,Senior Data Scientist,Data Scientist,Senior,India,3,3,18.9,16.5,20.7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reliance Industries,Senior Data Scientist,Data Scientist,Senior,India,5,5,10.0,9.0,11.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scienaptic Systems,Senior Data Scientist,Data Scientist,Senior,India,6,6,19.7,15.0,23.5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Freelance Consultants,Senior Data Scientist,Data Scientist,Senior,India,7,7,31.7,18.6,42.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Decision Point,Senior Data Scientist,Data Scientist,Senior,India,3,3,22.4,19.0,25.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IDFC FIRST Bank,Senior Data Scientist,Data Scientist,Senior,India,4,4,20.8,14.0,26.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Thomson Reuters,Senior Data Scientist,Data Scientist,Senior,India,4,4,18.4,10.0,27.5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Synechron,Senior Data Scientist,Data Scientist,Senior,India,3,3,12.0,9.5,16.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Akamai Technologies,Senior Data Scientist,Data Scientist,Senior,India,4,4,27.3,22.5,34.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Quest Global,Senior Data Scientist,Data Scientist,Senior,India,4,4,22.8,14.0,41.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GEP Worldwide,Senior Data Scientist,Data Scientist,Senior,India,6,6,24.4,22.0,32.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hinduja Global Solutions,Senior Data Scientist,Data Scientist,Senior,India,3,3,15.6,4.0,24.7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ACL Digital,Senior Data Scientist,Data Scientist,Senior,India,3,3,18.8,10.7,25.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Innova Solutions,Senior Data Scientist,Data Scientist,Senior,India,4,4,39.7,6.0,97.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Automatic Data Processing,Senior Data Scientist,Data Scientist,Senior,India,9,9,34.4,27.0,39.4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brillio,Senior Data Scientist,Data Scientist,Senior,India,4,4,21.2,12.0,34.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Boeing,Senior Data Scientist,Data Scientist,Senior,India,8,8,27.6,25.2,30.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Flipkart,Senior Data Scientist,Data Scientist,Senior,India,5,5,82.0,55.0,100.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ITC Infotech India,Senior Data Scientist,Data Scientist,Senior,India,3,3,14.9,12.0,18.5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Decision Minds,Senior Data Scientist,Data Scientist,Senior,India,5,5,19.0,13.0,22.4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Neal Analytics,Senior Data Scientist,Data Scientist,Senior,India,4,4,23.6,21.0,29.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HALODOC,Senior Data Scientist,Data Scientist,Senior,India,2,2,27.4,18.0,38.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Samsung Research,Senior Data Scientist,Data Scientist,Senior,India,2,2,31.7,20.5,40.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Neewee Analytics,Senior Data Scientist,Data Scientist,Senior,India,3,3,14.9,12.1,21.5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Subex,Senior Data Scientist,Data Scientist,Senior,India,4,4,25.2,11.8,37.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BCG,Senior Data Scientist,Data Scientist,Senior,India,3,3,20.2,19.8,21.5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hitachi Vantara,Senior Data Scientist,Data Scientist,Senior,India,7,7,24.6,18.7,35.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZF Group,Senior Data Scientist,Data Scientist,Senior,India,2,2,16.8,14.5,20.3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DUNNHUMBY IT SERVICES INDIA,Senior Data Scientist,Data Scientist,Senior,India,2,2,12.3,11.0,15.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Decimal Point Analytics,Senior Data Scientist,Data Scientist,Senior,India,2,2,20.2,12.2,24.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Koch Business Solutions,Senior Data Scientist,Data Scientist,Senior,India,4,4,39.6,23.0,51.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Noodle.Ai,Senior Data Scientist,Data Scientist,Senior,India,2,2,21.7,18.0,26.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Publicis,Senior Data Scientist,Data Scientist,Senior,India,5,5,18.0,15.0,28.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ecolab Digital Center,Senior Data Scientist,Data Scientist,Senior,India,4,4,22.7,19.3,26.1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PepsiCo,Senior Data Scientist,Data Scientist,Senior,India,8,8,29.5,19.0,39.5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TEKsystems,Senior Data Scientist,Data Scientist,Senior,India,3,3,18.2,9.0,23.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chubb Group,Senior Data Scientist,Data Scientist,Senior,India,4,4,16.6,13.5,21.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Amnet Digital,Senior Data Scientist,Data Scientist,Senior,India,2,2,11.8,1.0,18.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Blend360,Senior Data Scientist,Data Scientist,Senior,India,5,5,30.4,26.3,35.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kyndryl,Senior Data Scientist,Data Scientist,Senior,India,3,3,44.4,11.6,93.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,Senior Data Scientist,Data Scientist,Senior,India,0,0,24.6,22.0,28.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chegg,Senior Data Scientist,Data Scientist,Senior,India,3,3,32.2,29.9,35.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+First Source,Senior Data Scientist,Data Scientist,Senior,India,10,10,29.0,28.0,30.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Caterpillar Inc,Senior Data Scientist,Data Scientist,Senior,India,9,9,22.8,20.3,24.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pitney Bowes,Senior Data Scientist,Data Scientist,Senior,India,3,3,17.5,14.1,22.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MSCI,Senior Data Scientist,Data Scientist,Senior,India,6,6,38.4,35.4,42.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Accolite Digital,Senior Data Scientist,Data Scientist,Senior,India,2,2,12.8,11.0,14.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Adobe,Senior Data Scientist,Data Scientist,Senior,India,8,8,40.0,30.0,50.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Omega Healthcare,Senior Data Scientist,Data Scientist,Senior,India,7,7,14.1,10.8,15.8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Western Union,Senior Data Scientist,Data Scientist,Senior,India,4,4,22.2,20.0,25.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HDFC Bank,Senior Data Scientist,Data Scientist,Senior,India,6,6,25.1,15.2,33.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tata Motors,Senior Data Scientist,Data Scientist,Senior,India,4,4,11.5,5.8,14.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EdgeVerve Systems,Senior Data Scientist,Data Scientist,Senior,India,5,5,20.4,12.0,27.5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aditya Birla Group,Senior Data Scientist,Data Scientist,Senior,India,7,7,28.0,26.0,30.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Commonwealth Bank of Australia,Senior Data Scientist,Data Scientist,Senior,India,4,4,31.8,27.0,35.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swiss Re,Senior Data Scientist,Data Scientist,Senior,India,5,5,26.9,11.9,34.5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TCS,Senior Business Analyst,Data Analyst,Senior,India,3,3,7.7,3.5,14.0,1100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Accenture,Senior Business Analyst,Data Analyst,Senior,India,3,3,10.3,5.5,15.4,1100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Evalueserve,Senior Business Analyst,Data Analyst,Senior,India,2,2,9.8,7.1,13.8,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cognizant,Senior Business Analyst,Data Analyst,Senior,India,2,2,13.9,9.0,18.7,616,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HCL Technologies,Senior Business Analyst,Data Analyst,Senior,India,4,4,11.9,6.4,18.5,384,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tech Mahindra,Senior Business Analyst,Data Analyst,Senior,India,4,4,9.9,5.5,16.5,382,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EXL Service,Senior Business Analyst,Data Analyst,Senior,India,2,2,8.8,6.2,12.0,308,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wipro,Senior Business Analyst,Data Analyst,Senior,India,4,4,12.8,6.1,22.0,280,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fidelity National Information Services,Senior Business Analyst,Data Analyst,Senior,India,4,4,15.0,6.5,22.0,267,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cgi Group,Senior Business Analyst,Data Analyst,Senior,India,5,5,10.7,7.2,15.0,225,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+L&T Infotech,Senior Business Analyst,Data Analyst,Senior,India,3,3,11.7,7.0,17.3,223,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,Senior Business Analyst,Data Analyst,Senior,India,6,6,17.1,9.2,24.0,219,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Capgemini,Senior Business Analyst,Data Analyst,Senior,India,2,2,11.6,4.5,20.0,213,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Newgen Software Technologies,Senior Business Analyst,Data Analyst,Senior,India,3,3,11.1,9.0,14.4,170,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IBM,Senior Business Analyst,Data Analyst,Senior,India,3,3,12.4,5.1,22.0,158,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Quantiphi Analytics Solutions,Senior Business Analyst,Data Analyst,Senior,India,2,2,15.0,11.3,19.0,152,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tredence,Senior Business Analyst,Data Analyst,Senior,India,2,2,11.2,9.0,14.0,150,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Conduent,Senior Business Analyst,Data Analyst,Senior,India,4,4,8.8,6.0,13.0,146,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Temenos,Senior Business Analyst,Data Analyst,Senior,India,5,5,13.2,9.5,17.1,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Amadeus,Senior Business Analyst,Data Analyst,Senior,India,4,4,14.8,12.0,18.5,128,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Infosys,Senior Business Analyst,Data Analyst,Senior,India,4,4,12.9,7.0,21.0,128,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+American Express,Senior Business Analyst,Data Analyst,Senior,India,2,2,9.2,5.0,18.5,118,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Deloitte,Senior Business Analyst,Data Analyst,Senior,India,3,3,11.5,6.8,20.0,118,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DXC Technology,Senior Business Analyst,Data Analyst,Senior,India,5,5,12.0,7.0,19.0,117,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ernst & Young,Senior Business Analyst,Data Analyst,Senior,India,3,3,14.1,6.3,22.7,110,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Exl India,Senior Business Analyst,Data Analyst,Senior,India,1,1,9.0,6.8,12.0,109,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bnp paribas india solutions,Senior Business Analyst,Data Analyst,Senior,India,6,6,14.6,8.6,21.0,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VMware Software,Senior Business Analyst,Data Analyst,Senior,India,6,6,18.5,11.7,24.8,92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zensar Technologies,Senior Business Analyst,Data Analyst,Senior,India,5,5,12.1,7.5,19.5,91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ramco Systems,Senior Business Analyst,Data Analyst,Senior,India,3,3,12.7,8.7,18.0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dell,Senior Business Analyst,Data Analyst,Senior,India,2,2,11.6,8.5,15.5,84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JP Morgan Chase,Senior Business Analyst,Data Analyst,Senior,India,4,4,12.3,5.1,23.0,84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UnitedHealth,Senior Business Analyst,Data Analyst,Senior,India,3,3,12.5,7.0,19.2,83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP Paribas,Senior Business Analyst,Data Analyst,Senior,India,6,6,15.8,9.5,24.0,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NTT DATA,Senior Business Analyst,Data Analyst,Senior,India,4,4,10.9,6.1,19.0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Flipkart,Senior Business Analyst,Data Analyst,Senior,India,3,3,20.4,14.0,27.5,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oracle,Senior Business Analyst,Data Analyst,Senior,India,4,4,10.2,5.1,22.0,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Merkle Sokrati,Senior Business Analyst,Data Analyst,Senior,India,1,1,7.0,6.2,8.4,76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Societe Generale,Senior Business Analyst,Data Analyst,Senior,India,5,5,15.2,7.1,22.5,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NatWest Group,Senior Business Analyst,Data Analyst,Senior,India,3,3,11.1,4.3,23.2,71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Allianz Technology,Senior Business Analyst,Data Analyst,Senior,India,5,5,11.9,8.0,16.0,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hexaware Technologies,Senior Business Analyst,Data Analyst,Senior,India,4,4,9.7,4.0,19.0,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Amazon,Senior Business Analyst,Data Analyst,Senior,India,3,3,20.1,4.5,30.0,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EPAM Systems,Senior Business Analyst,Data Analyst,Senior,India,7,7,21.9,17.0,25.5,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Deutsche Bank,Senior Business Analyst,Data Analyst,Senior,India,4,4,7.2,5.0,12.5,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNY Mellon,Senior Business Analyst,Data Analyst,Senior,India,4,4,8.7,5.1,15.0,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Legato Health Technologies,Senior Business Analyst,Data Analyst,Senior,India,5,5,14.6,9.4,20.0,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Iris Software,Senior Business Analyst,Data Analyst,Senior,India,7,7,20.5,15.5,27.0,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NetCracker,Senior Business Analyst,Data Analyst,Senior,India,10,10,28.0,21.0,36.0,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Globant,Senior Business Analyst,Data Analyst,Senior,India,5,5,16.7,12.7,20.8,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Genpact,Senior Business Analyst,Data Analyst,Senior,India,3,3,8.0,4.1,16.4,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Broadridge Financial Solutions,Senior Business Analyst,Data Analyst,Senior,India,3,3,10.8,7.2,16.0,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Credit Suisse,Senior Business Analyst,Data Analyst,Senior,India,4,4,16.3,10.0,23.4,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tiger Analytics,Senior Business Analyst,Data Analyst,Senior,India,2,2,13.8,11.5,15.0,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Novartis Healthcare,Senior Business Analyst,Data Analyst,Senior,India,3,3,13.0,9.5,18.0,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Standard Chartered Bank,Senior Business Analyst,Data Analyst,Senior,India,3,3,15.0,4.1,30.0,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wells Fargo India,Senior Business Analyst,Data Analyst,Senior,India,5,5,15.5,8.5,23.6,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shell,Senior Business Analyst,Data Analyst,Senior,India,7,7,25.6,15.5,35.2,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Synechron,Senior Business Analyst,Data Analyst,Senior,India,6,6,17.6,9.8,25.0,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GEP Worldwide,Senior Business Analyst,Data Analyst,Senior,India,2,2,10.3,6.8,12.3,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3i Infotech,Senior Business Analyst,Data Analyst,Senior,India,4,4,10.8,6.9,16.1,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ValueMomentum,Senior Business Analyst,Data Analyst,Senior,India,4,4,12.0,8.5,18.5,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mphasis,Senior Business Analyst,Data Analyst,Senior,India,3,3,12.6,4.2,20.0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Capita,Senior Business Analyst,Data Analyst,Senior,India,5,5,12.6,7.0,17.0,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UST,Senior Business Analyst,Data Analyst,Senior,India,5,5,13.4,9.0,20.0,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Citicorp,Senior Business Analyst,Data Analyst,Senior,India,3,3,15.7,6.0,25.0,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Optum,Senior Business Analyst,Data Analyst,Senior,India,4,4,13.3,5.5,19.8,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Barclays,Senior Business Analyst,Data Analyst,Senior,India,3,3,14.2,7.1,22.7,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IQVIA,Senior Business Analyst,Data Analyst,Senior,India,5,5,17.7,11.3,26.5,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Epsilon,Senior Business Analyst,Data Analyst,Senior,India,5,5,14.5,10.0,18.2,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Etech Global Services,Senior Business Analyst,Data Analyst,Senior,India,3,3,9.2,7.0,12.1,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sapiens,Senior Business Analyst,Data Analyst,Senior,India,5,5,18.0,13.8,22.7,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Concentrix Corporation,Senior Business Analyst,Data Analyst,Senior,India,2,2,3.7,2.7,6.2,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IBS Software Services,Senior Business Analyst,Data Analyst,Senior,India,2,2,6.2,4.3,8.3,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hewlett-Packard Enterprise,Senior Business Analyst,Data Analyst,Senior,India,3,3,7.9,3.6,16.0,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+WNS,Senior Business Analyst,Data Analyst,Senior,India,2,2,6.5,3.0,13.6,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+eClerx,Senior Business Analyst,Data Analyst,Senior,India,2,2,4.2,3.2,6.0,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Citibank,Senior Business Analyst,Data Analyst,Senior,India,3,3,19.5,8.2,25.5,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Odessa,Senior Business Analyst,Data Analyst,Senior,India,3,3,16.2,12.3,24.0,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fidelity International,Senior Business Analyst,Data Analyst,Senior,India,5,5,15.9,13.5,19.0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ameriprise Financial,Senior Business Analyst,Data Analyst,Senior,India,4,4,9.6,6.2,16.3,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tsys Card Tech Services,Senior Business Analyst,Data Analyst,Senior,India,6,6,15.7,12.5,18.9,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Merilytics,Senior Business Analyst,Data Analyst,Senior,India,0,0,7.8,6.5,9.5,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Barclays Global Service Centre,Senior Business Analyst,Data Analyst,Senior,India,3,3,12.5,5.0,22.9,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unisys,Senior Business Analyst,Data Analyst,Senior,India,5,5,12.7,8.0,17.3,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Photon Interactive,Senior Business Analyst,Data Analyst,Senior,India,4,4,9.9,6.3,15.0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tata Technologies,Senior Business Analyst,Data Analyst,Senior,India,4,4,8.7,6.2,14.0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Virtusa Consulting Services,Senior Business Analyst,Data Analyst,Senior,India,5,5,15.8,11.0,22.5,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Xceedance,Senior Business Analyst,Data Analyst,Senior,India,5,5,13.4,9.5,18.6,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Uber,Senior Business Analyst,Data Analyst,Senior,India,2,2,13.4,10.0,19.0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CitiusTech,Senior Business Analyst,Data Analyst,Senior,India,4,4,14.4,9.5,18.0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MetLife,Senior Business Analyst,Data Analyst,Senior,India,0,0,6.0,4.0,9.3,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+eMids Technologies,Senior Business Analyst,Data Analyst,Senior,India,5,5,15.3,10.0,21.0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Standard Chartered Global Business Services,Senior Business Analyst,Data Analyst,Senior,India,7,7,18.4,11.0,29.9,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+D Cube Analytics,Senior Business Analyst,Data Analyst,Senior,India,2,2,11.7,9.2,14.0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Novo Nordisk,Senior Business Analyst,Data Analyst,Senior,India,6,6,15.7,10.3,21.0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Affine Analytics,Senior Business Analyst,Data Analyst,Senior,India,1,1,10.0,8.0,13.6,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Altisource,Senior Business Analyst,Data Analyst,Senior,India,4,4,8.5,5.2,15.0,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mu Sigma,Senior Business Analyst,Data Analyst,Senior,India,1,1,8.6,6.3,13.0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Meesho,Senior Business Analyst,Data Analyst,Senior,India,2,2,19.3,16.0,23.0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gartner,Senior Business Analyst,Data Analyst,Senior,India,2,2,18.7,12.5,24.0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LearningMate Solutions,Senior Business Analyst,Data Analyst,Senior,India,3,3,10.5,6.4,14.0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R1 RCM,Senior Business Analyst,Data Analyst,Senior,India,2,2,4.3,3.5,5.9,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sopra Steria,Senior Business Analyst,Data Analyst,Senior,India,3,3,14.6,10.0,18.5,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fiserv,Senior Business Analyst,Data Analyst,Senior,India,8,8,18.0,11.0,29.8,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Harman Connected Services,Senior Business Analyst,Data Analyst,Senior,India,3,3,12.3,6.6,20.0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Principal Global Services,Senior Business Analyst,Data Analyst,Senior,India,4,4,13.3,5.8,17.5,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Danske IT,Senior Business Analyst,Data Analyst,Senior,India,7,7,18.7,14.3,24.1,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Amdocs,Senior Business Analyst,Data Analyst,Senior,India,6,6,17.6,11.1,24.9,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Allscripts,Senior Business Analyst,Data Analyst,Senior,India,5,5,13.9,11.0,17.7,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Collabera Technologies,Senior Business Analyst,Data Analyst,Senior,India,4,4,11.7,8.0,20.0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swiggy,Senior Business Analyst,Data Analyst,Senior,India,2,2,18.4,13.8,22.0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Birlasoft,Senior Business Analyst,Data Analyst,Senior,India,3,3,9.8,6.0,19.0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ValueLabs,Senior Business Analyst,Data Analyst,Senior,India,6,6,14.9,10.0,20.0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Orange Business Services,Senior Business Analyst,Data Analyst,Senior,India,5,5,12.8,7.0,20.0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maersk,Senior Business Analyst,Data Analyst,Senior,India,6,6,10.9,5.0,23.0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gartner India Research and Advisory Services,Senior Business Analyst,Data Analyst,Senior,India,3,3,20.4,13.8,26.0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+First Source,Senior Business Analyst,Data Analyst,Senior,India,2,2,5.1,3.4,6.6,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Barclays Shared Services,Senior Business Analyst,Data Analyst,Senior,India,2,2,7.1,4.0,14.0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ICICI Bank,Senior Business Analyst,Data Analyst,Senior,India,5,5,12.3,5.3,21.0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CES,Senior Business Analyst,Data Analyst,Senior,India,5,5,7.4,5.2,9.5,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mercer,Senior Business Analyst,Data Analyst,Senior,India,2,2,5.5,2.8,17.0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NatWest Markets,Senior Business Analyst,Data Analyst,Senior,India,5,5,13.4,5.0,22.0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Xoriant,Senior Business Analyst,Data Analyst,Senior,India,6,6,17.5,11.5,21.7,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PwC,Senior Business Analyst,Data Analyst,Senior,India,4,4,12.6,6.0,22.0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Statestreet HCL Services,Senior Business Analyst,Data Analyst,Senior,India,1,1,3.0,2.4,3.6,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+First American Corporation,Senior Business Analyst,Data Analyst,Senior,India,5,5,13.4,5.9,18.5,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MindGate Solutions,Senior Business Analyst,Data Analyst,Senior,India,5,5,12.5,8.0,18.0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mindtree,Senior Business Analyst,Data Analyst,Senior,India,4,4,16.9,12.0,22.0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TEKsystems,Senior Business Analyst,Data Analyst,Senior,India,5,5,15.6,11.7,20.5,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Decision Point,Senior Business Analyst,Data Analyst,Senior,India,1,1,11.8,10.0,16.0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Thomson Reuters,Senior Business Analyst,Data Analyst,Senior,India,4,4,11.7,5.0,19.5,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eurofins It Solutions,Senior Business Analyst,Data Analyst,Senior,India,7,7,22.0,16.0,24.8,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Capco Technologies,Senior Business Analyst,Data Analyst,Senior,India,7,7,18.2,15.0,20.2,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hsbc Technology,Senior Business Analyst,Data Analyst,Senior,India,6,6,18.7,13.0,25.0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+S&P Global,Senior Business Analyst,Data Analyst,Senior,India,5,5,13.7,9.0,20.0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+General Mills,Senior Business Analyst,Data Analyst,Senior,India,4,4,13.4,11.0,16.0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Intellect Design Arena,Senior Business Analyst,Data Analyst,Senior,India,6,6,17.2,11.7,22.5,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dell EMC,Senior Business Analyst,Data Analyst,Senior,India,3,3,10.5,8.5,13.0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ebix Software India,Senior Business Analyst,Data Analyst,Senior,India,4,4,9.8,6.5,13.5,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Northern Trust Operating Services,Senior Business Analyst,Data Analyst,Senior,India,3,3,6.2,4.9,9.5,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IVY Comptech,Senior Business Analyst,Data Analyst,Senior,India,7,7,20.7,16.2,25.0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Atos Syntel,Senior Business Analyst,Data Analyst,Senior,India,6,6,13.8,7.0,22.8,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Provana,Senior Business Analyst,Data Analyst,Senior,India,1,1,7.9,5.5,11.5,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Coforge,Senior Business Analyst,Data Analyst,Senior,India,6,6,17.1,11.2,23.0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HDFC Bank,Senior Business Analyst,Data Analyst,Senior,India,4,4,13.2,7.1,20.0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Commonwealth Bank of Australia,Senior Business Analyst,Data Analyst,Senior,India,5,5,28.3,21.0,38.0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Volante Technologies,Senior Business Analyst,Data Analyst,Senior,India,9,9,22.3,15.0,28.0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hinduja Global Solutions,Senior Business Analyst,Data Analyst,Senior,India,2,2,3.3,2.4,4.3,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tavant Technologies,Senior Business Analyst,Data Analyst,Senior,India,3,3,10.0,8.0,14.0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jocata Financial Advisory and Technology,Senior Business Analyst,Data Analyst,Senior,India,6,6,14.3,9.0,23.0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Persistent Systems,Senior Business Analyst,Data Analyst,Senior,India,7,7,22.5,15.0,30.5,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Axis Bank,Senior Business Analyst,Data Analyst,Senior,India,3,3,14.4,9.3,22.0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sabre,Senior Business Analyst,Data Analyst,Senior,India,6,6,20.1,13.8,28.0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MResult Services,Senior Business Analyst,Data Analyst,Senior,India,4,4,8.2,5.5,12.0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Franklin Templeton Investments,Senior Business Analyst,Data Analyst,Senior,India,5,5,12.1,6.8,17.1,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Allsec Technologies,Senior Business Analyst,Data Analyst,Senior,India,3,3,6.1,5.2,7.5,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MSC Technology India,Senior Business Analyst,Data Analyst,Senior,India,3,3,6.7,4.9,8.7,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sopra Banking Software,Senior Business Analyst,Data Analyst,Senior,India,6,6,16.3,10.2,25.0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colgate Global Business Services,Senior Business Analyst,Data Analyst,Senior,India,7,7,15.2,13.2,17.5,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Azentio,Senior Business Analyst,Data Analyst,Senior,India,3,3,13.4,9.5,17.0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mastek,Senior Business Analyst,Data Analyst,Senior,India,7,7,13.6,9.7,17.5,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Springer Nature,Senior Business Analyst,Data Analyst,Senior,India,6,6,17.0,13.0,21.9,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Honeywell Technology Solutions,Senior Business Analyst,Data Analyst,Senior,India,5,5,15.9,10.0,23.8,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Thryve Digital,Senior Business Analyst,Data Analyst,Senior,India,5,5,10.0,7.1,14.0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBS,Senior Business Analyst,Data Analyst,Senior,India,7,7,22.9,10.8,33.0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zomato,Senior Business Analyst,Data Analyst,Senior,India,2,2,15.7,10.0,22.0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cybage,Senior Business Analyst,Data Analyst,Senior,India,8,8,18.0,15.5,23.0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Larsen & Toubro Limited,Senior Business Analyst,Data Analyst,Senior,India,4,4,11.3,8.5,14.5,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Royal Bank of Scotland International,Senior Business Analyst,Data Analyst,Senior,India,3,3,5.7,4.1,10.5,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Indegene,Senior Business Analyst,Data Analyst,Senior,India,2,2,14.0,10.2,21.0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Accion Labs,Senior Business Analyst,Data Analyst,Senior,India,7,7,17.5,11.0,25.2,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Infor Global Solution,Senior Business Analyst,Data Analyst,Senior,India,6,6,16.8,13.5,20.0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cygnet Infotech,Senior Business Analyst,Data Analyst,Senior,India,4,4,8.6,5.5,11.0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oracle Financial Services Software,Senior Business Analyst,Data Analyst,Senior,India,6,6,14.2,8.4,24.1,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ThoughtWorks,Senior Business Analyst,Data Analyst,Senior,India,5,5,20.2,15.8,25.0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Citigroup,Senior Business Analyst,Data Analyst,Senior,India,3,3,15.6,9.2,21.1,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unacademy,Senior Business Analyst,Data Analyst,Senior,India,0,0,13.0,4.0,25.0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+State Street Corporation,Senior Business Analyst,Data Analyst,Senior,India,2,2,10.7,3.5,22.0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HCL Infosystems,Senior Business Analyst,Data Analyst,Senior,India,3,3,9.0,3.4,15.0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ocwen Financial Solutions,Senior Business Analyst,Data Analyst,Senior,India,4,4,9.9,5.9,13.3,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vedantu,Senior Business Analyst,Data Analyst,Senior,India,2,2,16.9,6.6,21.0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Infinite Computer Solutions,Senior Business Analyst,Data Analyst,Senior,India,4,4,9.3,6.0,13.0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Clover Infotech,Senior Business Analyst,Data Analyst,Senior,India,3,3,9.1,6.5,12.5,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BYJU'S,Senior Business Analyst,Data Analyst,Senior,India,0,0,9.4,6.0,17.0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Majesco,Senior Business Analyst,Data Analyst,Senior,India,5,5,13.6,9.0,18.0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R Systems International,Senior Business Analyst,Data Analyst,Senior,India,6,6,14.8,9.9,20.0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Accenture,Senior Data Analyst,Data Analyst,Senior,India,3,3,9.9,6.5,14.6,213,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Capgemini,Senior Data Analyst,Data Analyst,Senior,India,1,1,4.7,3.8,7.1,129,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TCS,Senior Data Analyst,Data Analyst,Senior,India,3,3,6.0,2.9,11.2,118,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unilog Content Solutions ( P),Senior Data Analyst,Data Analyst,Senior,India,3,3,3.2,2.8,3.8,110,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cognizant,Senior Data Analyst,Data Analyst,Senior,India,2,2,6.2,3.0,15.2,109,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+eClerx,Senior Data Analyst,Data Analyst,Senior,India,1,1,4.3,3.0,7.2,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Concentrix Corporation,Senior Data Analyst,Data Analyst,Senior,India,2,2,4.6,3.1,7.5,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ernst & Young,Senior Data Analyst,Data Analyst,Senior,India,3,3,9.5,6.0,15.3,71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Flipkart,Senior Data Analyst,Data Analyst,Senior,India,3,3,11.8,6.0,17.6,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wipro,Senior Data Analyst,Data Analyst,Senior,India,2,2,7.1,3.0,11.7,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tech Mahindra,Senior Data Analyst,Data Analyst,Senior,India,2,2,7.1,4.0,13.0,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HCL Technologies,Senior Data Analyst,Data Analyst,Senior,India,2,2,6.2,3.0,10.0,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ugam Solution,Senior Data Analyst,Data Analyst,Senior,India,2,2,6.5,3.5,10.5,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cerner,Senior Data Analyst,Data Analyst,Senior,India,2,2,6.1,3.0,15.4,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Optum,Senior Data Analyst,Data Analyst,Senior,India,5,5,16.2,11.0,21.5,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+InnovAccer,Senior Data Analyst,Data Analyst,Senior,India,2,2,15.2,9.3,22.0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GlobalLogic,Senior Data Analyst,Data Analyst,Senior,India,2,2,3.5,2.5,5.0,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Infosys,Senior Data Analyst,Data Analyst,Senior,India,3,3,9.9,5.3,15.0,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tiger Analytics,Senior Data Analyst,Data Analyst,Senior,India,1,1,11.3,9.0,15.0,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UnitedHealth,Senior Data Analyst,Data Analyst,Senior,India,5,5,17.2,8.0,26.0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IBM,Senior Data Analyst,Data Analyst,Senior,India,3,3,11.1,6.3,19.0,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cyient,Senior Data Analyst,Data Analyst,Senior,India,4,4,3.6,2.5,5.3,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Urjanet Energy Solutions,Senior Data Analyst,Data Analyst,Senior,India,2,2,3.8,3.1,5.0,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Deloitte,Senior Data Analyst,Data Analyst,Senior,India,3,3,10.2,6.2,14.9,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Epsilon,Senior Data Analyst,Data Analyst,Senior,India,4,4,17.4,10.0,24.5,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Morningstar,Senior Data Analyst,Data Analyst,Senior,India,2,2,5.0,3.8,6.3,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BCG,Senior Data Analyst,Data Analyst,Senior,India,5,5,19.7,16.0,24.0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dell,Senior Data Analyst,Data Analyst,Senior,India,3,3,11.7,9.0,18.0,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Walmart,Senior Data Analyst,Data Analyst,Senior,India,4,4,29.0,16.5,40.0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Course5,Senior Data Analyst,Data Analyst,Senior,India,3,3,7.4,5.1,12.9,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IHS Markit,Senior Data Analyst,Data Analyst,Senior,India,4,4,11.1,6.1,18.5,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bharti Airtel,Senior Data Analyst,Data Analyst,Senior,India,3,3,16.6,5.9,22.0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+L&T Infotech,Senior Data Analyst,Data Analyst,Senior,India,3,3,12.2,7.3,19.0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wells Fargo India,Senior Data Analyst,Data Analyst,Senior,India,3,3,13.7,7.8,23.0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Axa XL,Senior Data Analyst,Data Analyst,Senior,India,2,2,9.9,6.1,15.0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zen3 Info Solutions,Senior Data Analyst,Data Analyst,Senior,India,3,3,4.3,3.4,5.5,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Honeywell Technology Solutions,Senior Data Analyst,Data Analyst,Senior,India,4,4,14.6,6.0,22.0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LiquidHub,Senior Data Analyst,Data Analyst,Senior,India,2,2,3.5,2.5,4.8,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Proziod Analytics,Senior Data Analyst,Data Analyst,Senior,India,3,3,4.9,3.6,6.3,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LatentView Analytics,Senior Data Analyst,Data Analyst,Senior,India,2,2,10.8,9.2,12.5,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The Smart Cube,Senior Data Analyst,Data Analyst,Senior,India,1,1,9.6,7.0,12.0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Indium Software,Senior Data Analyst,Data Analyst,Senior,India,3,3,14.4,10.0,20.0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Citicorp,Senior Data Analyst,Data Analyst,Senior,India,2,2,16.1,11.5,20.9,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Harman Connected Services,Senior Data Analyst,Data Analyst,Senior,India,4,4,10.0,6.0,19.0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Toluna,Senior Data Analyst,Data Analyst,Senior,India,3,3,7.1,5.4,9.0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FE fundinfo,Senior Data Analyst,Data Analyst,Senior,India,2,2,4.8,4.0,5.4,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+McKinsey & Company,Senior Data Analyst,Data Analyst,Senior,India,3,3,20.7,12.9,27.2,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Amazon,Senior Data Analyst,Data Analyst,Senior,India,2,2,8.6,3.9,25.5,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ford Motor,Senior Data Analyst,Data Analyst,Senior,India,2,2,15.0,11.6,18.9,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Subex,Senior Data Analyst,Data Analyst,Senior,India,1,1,8.0,5.5,11.0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mindtree,Senior Data Analyst,Data Analyst,Senior,India,2,2,8.0,6.0,12.6,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+S&P Global,Senior Data Analyst,Data Analyst,Senior,India,3,3,8.0,5.7,11.0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EXL Service,Senior Data Analyst,Data Analyst,Senior,India,2,2,7.6,4.0,12.0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DXC Technology,Senior Data Analyst,Data Analyst,Senior,India,5,5,14.0,6.9,20.0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R1 RCM,Senior Data Analyst,Data Analyst,Senior,India,3,3,5.4,3.9,6.9,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KPMG,Senior Data Analyst,Data Analyst,Senior,India,1,1,8.0,4.2,11.8,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zensar Technologies,Senior Data Analyst,Data Analyst,Senior,India,4,4,6.3,4.0,10.6,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Schneider Electric,Senior Data Analyst,Data Analyst,Senior,India,2,2,9.6,6.0,17.0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+WNS,Senior Data Analyst,Data Analyst,Senior,India,2,2,6.1,4.0,8.0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Genpact,Senior Data Analyst,Data Analyst,Senior,India,3,3,6.2,4.3,11.0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NTT DATA,Senior Data Analyst,Data Analyst,Senior,India,2,2,7.2,4.0,11.5,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ganit Business Solutions,Senior Data Analyst,Data Analyst,Senior,India,0,0,7.4,5.2,10.5,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,Senior Data Analyst,Data Analyst,Senior,India,2,2,11.9,7.1,16.0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Synchrony,Senior Data Analyst,Data Analyst,Senior,India,2,2,7.5,5.0,12.5,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kantar,Senior Data Analyst,Data Analyst,Senior,India,2,2,6.0,4.5,8.4,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unire Business Solutions,Senior Data Analyst,Data Analyst,Senior,India,0,0,1.9,1.4,2.5,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JP Morgan Chase,Senior Data Analyst,Data Analyst,Senior,India,3,3,12.8,7.4,18.0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dynata,Senior Data Analyst,Data Analyst,Senior,India,4,4,8.8,7.5,10.3,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PwC,Senior Data Analyst,Data Analyst,Senior,India,3,3,11.1,5.8,20.0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Indegene,Senior Data Analyst,Data Analyst,Senior,India,2,2,15.6,11.4,20.5,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lowe's,Senior Data Analyst,Data Analyst,Senior,India,1,1,17.4,10.4,20.0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ameriprise Financial,Senior Data Analyst,Data Analyst,Senior,India,3,3,14.2,10.0,18.1,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Barclays,Senior Data Analyst,Data Analyst,Senior,India,3,3,13.8,9.0,19.4,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Continental Automotive Components,Senior Data Analyst,Data Analyst,Senior,India,2,2,2.9,2.5,3.5,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Johnson & Johnson,Senior Data Analyst,Data Analyst,Senior,India,4,4,12.0,5.8,20.0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JLL,Senior Data Analyst,Data Analyst,Senior,India,3,3,6.3,4.5,13.0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Paytm,Senior Data Analyst,Data Analyst,Senior,India,3,3,7.6,5.0,11.0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oracle,Senior Data Analyst,Data Analyst,Senior,India,3,3,7.7,4.2,15.0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HERE Technologies,Senior Data Analyst,Data Analyst,Senior,India,4,4,5.1,4.5,6.5,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CAMP Systems,Senior Data Analyst,Data Analyst,Senior,India,4,4,5.1,3.8,6.2,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ericsson,Senior Data Analyst,Data Analyst,Senior,India,2,2,8.9,5.0,13.0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Novartis Healthcare,Senior Data Analyst,Data Analyst,Senior,India,2,2,12.8,6.0,19.0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E2OPEN,Senior Data Analyst,Data Analyst,Senior,India,5,5,6.1,4.9,8.3,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bank of America,Senior Data Analyst,Data Analyst,Senior,India,5,5,19.2,11.7,26.0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nielsen,Senior Data Analyst,Data Analyst,Senior,India,2,2,5.9,3.1,9.5,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VASTA BIO-INFORMATICS,Senior Data Analyst,Data Analyst,Senior,India,1,1,3.6,3.3,4.3,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VeeTechnologies,Senior Data Analyst,Data Analyst,Senior,India,2,2,3.0,2.0,4.0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nailbiter Research,Senior Data Analyst,Data Analyst,Senior,India,0,0,4.7,4.2,5.2,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hewlett-Packard Enterprise,Senior Data Analyst,Data Analyst,Senior,India,3,3,8.8,5.0,17.7,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+S&P Global Market Intelligence,Senior Data Analyst,Data Analyst,Senior,India,5,5,6.9,4.9,9.5,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MakeMyTrip,Senior Data Analyst,Data Analyst,Senior,India,4,4,7.5,6.0,9.0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Advantmed,Senior Data Analyst,Data Analyst,Senior,India,3,3,7.1,4.0,12.0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sutherland Global Services,Senior Data Analyst,Data Analyst,Senior,India,2,2,6.6,5.0,8.5,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Citibank,Senior Data Analyst,Data Analyst,Senior,India,2,2,17.4,16.0,19.5,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mercer,Senior Data Analyst,Data Analyst,Senior,India,1,1,4.6,3.0,6.5,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+American Express,Senior Data Analyst,Data Analyst,Senior,India,2,2,14.7,6.1,25.0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shadowfax Technologies,Senior Data Analyst,Data Analyst,Senior,India,0,0,7.7,6.3,10.0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Resilinc,Senior Data Analyst,Data Analyst,Senior,India,4,4,5.8,5.0,7.0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bluemind Solutions,Senior Data Analyst,Data Analyst,Senior,India,4,4,3.1,2.8,3.5,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Denave,Senior Data Analyst,Data Analyst,Senior,India,2,2,6.7,3.5,9.8,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cross-tab Marketing Services,Senior Data Analyst,Data Analyst,Senior,India,0,0,5.0,3.5,7.0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wissend,Senior Data Analyst,Data Analyst,Senior,India,0,0,1.9,1.4,2.2,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Infosys BPM,Senior Data Analyst,Data Analyst,Senior,India,2,2,8.9,3.8,17.0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Adobe,Senior Data Analyst,Data Analyst,Senior,India,5,5,14.5,9.8,20.0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNY Mellon,Senior Data Analyst,Data Analyst,Senior,India,3,3,10.4,4.9,13.5,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shell,Senior Data Analyst,Data Analyst,Senior,India,4,4,12.4,7.9,20.0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Target,Senior Data Analyst,Data Analyst,Senior,India,2,2,13.7,9.9,18.0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dell EMC,Senior Data Analyst,Data Analyst,Senior,India,3,3,9.4,8.5,11.1,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+comScore,Senior Data Analyst,Data Analyst,Senior,India,5,5,19.7,13.5,24.0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fedby Information Services,Senior Data Analyst,Data Analyst,Senior,India,3,3,4.6,4.0,5.5,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Experis IT,Senior Data Analyst,Data Analyst,Senior,India,5,5,8.2,6.6,9.8,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phoenix American Sales Focus Solutions India,Senior Data Analyst,Data Analyst,Senior,India,3,3,5.7,5.0,7.0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Collabera Technologies,Senior Data Analyst,Data Analyst,Senior,India,2,2,8.7,7.5,10.5,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG Analytics,Senior Data Analyst,Data Analyst,Senior,India,3,3,7.0,6.0,8.3,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mobikwik,Senior Data Analyst,Data Analyst,Senior,India,3,3,13.9,11.0,17.0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ecolab Digital Center,Senior Data Analyst,Data Analyst,Senior,India,6,6,17.6,11.2,22.3,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oyo Rooms,Senior Data Analyst,Data Analyst,Senior,India,4,4,11.4,7.0,16.0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Randstad,Senior Data Analyst,Data Analyst,Senior,India,3,3,6.9,2.5,12.0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Clarivate Analytics,Senior Data Analyst,Data Analyst,Senior,India,1,1,17.7,10.0,26.5,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rapido,Senior Data Analyst,Data Analyst,Senior,India,2,2,14.9,6.5,20.4,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Standard Chartered Bank,Senior Data Analyst,Data Analyst,Senior,India,2,2,12.7,5.0,30.0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Equifax,Senior Data Analyst,Data Analyst,Senior,India,3,3,6.2,3.5,8.5,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tesco,Senior Data Analyst,Data Analyst,Senior,India,1,1,10.3,5.8,15.5,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+QL2 Software,Senior Data Analyst,Data Analyst,Senior,India,4,4,3.4,2.7,5.5,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vodafone Idea,Senior Data Analyst,Data Analyst,Senior,India,3,3,10.2,5.2,15.8,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IQVIA,Senior Data Analyst,Data Analyst,Senior,India,3,3,12.4,8.0,15.3,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+InSync Analytics,Senior Data Analyst,Data Analyst,Senior,India,4,4,3.6,3.1,4.0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Landis+Gyr,Senior Data Analyst,Data Analyst,Senior,India,5,5,15.0,12.6,17.5,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DecisionTree Analytics & Services,Senior Data Analyst,Data Analyst,Senior,India,3,3,12.8,9.0,17.0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Yodlee,Senior Data Analyst,Data Analyst,Senior,India,4,4,7.4,5.0,9.0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Yash Technologies,Senior Data Analyst,Data Analyst,Senior,India,7,7,5.8,4.6,7.5,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Teleperformance,Senior Data Analyst,Data Analyst,Senior,India,2,2,3.0,2.0,4.4,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wunderman,Senior Data Analyst,Data Analyst,Senior,India,2,2,5.7,4.5,7.4,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Xiaomi,Senior Data Analyst,Data Analyst,Senior,India,5,5,9.5,8.1,10.5,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sentieo,Senior Data Analyst,Data Analyst,Senior,India,2,2,5.9,5.0,7.0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fidelity National Information Services,Senior Data Analyst,Data Analyst,Senior,India,4,4,9.7,6.5,14.0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Thomson Reuters,Senior Data Analyst,Data Analyst,Senior,India,3,3,10.5,8.0,15.0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maersk,Senior Data Analyst,Data Analyst,Senior,India,3,3,7.1,5.0,9.0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Home Credit Finance,Senior Data Analyst,Data Analyst,Senior,India,3,3,7.6,4.8,10.0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Standard Chartered Global Business Services,Senior Data Analyst,Data Analyst,Senior,India,4,4,18.5,10.5,27.4,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mr Cooper,Senior Data Analyst,Data Analyst,Senior,India,2,2,13.0,11.0,15.0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hudson's bay Company,Senior Data Analyst,Data Analyst,Senior,India,3,3,15.7,13.2,18.9,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+S&P Capital IQ,Senior Data Analyst,Data Analyst,Senior,India,3,3,6.4,5.0,9.2,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Merkle Sokrati,Senior Data Analyst,Data Analyst,Senior,India,1,1,9.1,7.8,12.3,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Games24x7,Senior Data Analyst,Data Analyst,Senior,India,5,5,17.9,11.5,23.1,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Iris Software,Senior Data Analyst,Data Analyst,Senior,India,5,5,14.4,10.0,20.0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Axis Bank,Senior Data Analyst,Data Analyst,Senior,India,0,0,7.0,5.0,8.3,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mphasis,Senior Data Analyst,Data Analyst,Senior,India,4,4,10.3,9.0,11.5,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Whitehat jr,Senior Data Analyst,Data Analyst,Senior,India,2,2,12.6,8.0,17.0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Blinkit,Senior Data Analyst,Data Analyst,Senior,India,1,1,16.7,13.5,23.0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BUDDI.AI,Senior Data Analyst,Data Analyst,Senior,India,3,3,4.2,4.0,5.0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cartesian Consulting,Senior Data Analyst,Data Analyst,Senior,India,1,1,7.5,5.6,11.0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fuel Intelligence,Senior Data Analyst,Data Analyst,Senior,India,2,2,4.5,4.0,5.0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+General Mills,Senior Data Analyst,Data Analyst,Senior,India,4,4,12.2,9.0,15.5,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cisco Systems,Senior Data Analyst,Data Analyst,Senior,India,7,7,15.3,13.2,20.3,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TIAA Global Business Services,Senior Data Analyst,Data Analyst,Senior,India,6,6,15.5,12.0,21.5,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nailbiter,Senior Data Analyst,Data Analyst,Senior,India,1,1,4.9,4.5,5.2,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aon,Senior Data Analyst,Data Analyst,Senior,India,2,2,7.0,3.8,12.2,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aakash Institute,Senior Data Analyst,Data Analyst,Senior,India,1,1,5.3,3.8,6.5,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+D2L Pharma Research Solutions,Senior Data Analyst,Data Analyst,Senior,India,4,4,4.3,3.4,5.2,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HARMAN,Senior Data Analyst,Data Analyst,Senior,India,5,5,9.4,6.5,12.2,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vaco Binary Semantics,Senior Data Analyst,Data Analyst,Senior,India,1,1,5.0,3.5,6.8,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+B3Intelligence,Senior Data Analyst,Data Analyst,Senior,India,3,3,6.8,4.0,8.5,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sapient Corporation,Senior Data Analyst,Data Analyst,Senior,India,3,3,12.1,5.1,20.8,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Legato Health Technologies,Senior Data Analyst,Data Analyst,Senior,India,6,6,14.3,11.7,21.0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fidelity National Financial,Senior Data Analyst,Data Analyst,Senior,India,2,2,4.9,3.5,6.2,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zomato,Senior Data Analyst,Data Analyst,Senior,India,0,0,6.2,5.5,7.3,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Symphony Retail AI,Senior Data Analyst,Data Analyst,Senior,India,3,3,10.5,10.0,11.0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Myntra,Senior Data Analyst,Data Analyst,Senior,India,5,5,11.9,7.5,23.0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KPI Partners,Senior Data Analyst,Data Analyst,Senior,India,6,6,13.9,11.0,16.0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reliance Retail,Senior Data Analyst,Data Analyst,Senior,India,2,2,6.0,4.5,6.8,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Publicis,Senior Data Analyst,Data Analyst,Senior,India,3,3,14.9,7.5,20.0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TEKsystems,Senior Data Analyst,Data Analyst,Senior,India,4,4,12.2,10.0,13.5,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mobile Premier League,Senior Data Analyst,Data Analyst,Senior,India,1,1,25.2,20.0,28.0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Citigroup,Senior Data Analyst,Data Analyst,Senior,India,2,2,17.0,14.0,21.0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LearningMate Solutions,Senior Data Analyst,Data Analyst,Senior,India,4,4,9.1,8.0,10.8,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Encore Capital Group,Senior Data Analyst,Data Analyst,Senior,India,3,3,8.5,7.5,9.1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MResult Services,Senior Data Analyst,Data Analyst,Senior,India,5,5,8.4,7.0,9.0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+XL Catlin,Senior Data Analyst,Data Analyst,Senior,India,3,3,14.9,11.8,17.4,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Williams Lea Tag,Senior Data Analyst,Data Analyst,Senior,India,5,5,6.6,5.0,9.0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ninjacart,Senior Data Analyst,Data Analyst,Senior,India,2,2,6.7,6.0,9.5,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bajaj Finserv,Senior Data Analyst,Data Analyst,Senior,India,3,3,11.4,9.4,15.0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Collegedunia,Senior Data Analyst,Data Analyst,Senior,India,1,1,4.3,3.6,5.0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arthur J. Gallagher & Co,Senior Data Analyst,Data Analyst,Senior,India,3,3,5.5,5.0,6.6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Athenahealth Technology,Senior Data Analyst,Data Analyst,Senior,India,6,6,6.1,5.6,6.6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ADP Solutions,Senior Data Analyst,Data Analyst,Senior,India,3,3,10.0,4.5,17.5,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UST,Senior Data Analyst,Data Analyst,Senior,India,5,5,10.4,6.0,12.0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+L&T Infotech,Senior Data Engineer,Data Engineer,Senior,India,2,2,11.0,6.0,17.0,729,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Quantiphi Analytics Solutions,Senior Data Engineer,Data Engineer,Senior,India,2,2,15.0,9.5,22.5,137,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IBM,Senior Data Engineer,Data Engineer,Senior,India,3,3,16.9,10.0,25.0,112,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maersk,Senior Data Engineer,Data Engineer,Senior,India,5,5,21.1,13.4,31.0,110,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Optum,Senior Data Engineer,Data Engineer,Senior,India,5,5,16.5,11.9,21.0,83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Accenture,Senior Data Engineer,Data Engineer,Senior,India,3,3,14.3,9.5,22.9,83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TCS,Senior Data Engineer,Data Engineer,Senior,India,5,5,13.3,7.9,20.9,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wells Fargo India,Senior Data Engineer,Data Engineer,Senior,India,7,7,21.9,16.9,31.5,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Altimetrik,Senior Data Engineer,Data Engineer,Senior,India,4,4,15.2,9.5,21.1,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Coforge,Senior Data Engineer,Data Engineer,Senior,India,4,4,15.3,12.0,18.6,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cognizant,Senior Data Engineer,Data Engineer,Senior,India,4,4,15.1,9.0,23.0,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sapient Corporation,Senior Data Engineer,Data Engineer,Senior,India,4,4,19.4,15.0,26.0,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fractal Analytics,Senior Data Engineer,Data Engineer,Senior,India,4,4,21.8,16.0,30.0,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Enquero,Senior Data Engineer,Data Engineer,Senior,India,2,2,15.8,11.5,20.0,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Walmart,Senior Data Engineer,Data Engineer,Senior,India,6,6,35.7,23.0,49.3,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shell,Senior Data Engineer,Data Engineer,Senior,India,3,3,23.3,11.2,36.0,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UnitedHealth,Senior Data Engineer,Data Engineer,Senior,India,5,5,16.1,12.2,25.0,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wipro,Senior Data Engineer,Data Engineer,Senior,India,4,4,13.1,8.0,20.0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Larsen & Toubro Limited,Senior Data Engineer,Data Engineer,Senior,India,2,2,10.4,6.5,16.0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mindtree,Senior Data Engineer,Data Engineer,Senior,India,2,2,6.7,5.8,10.0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Capgemini,Senior Data Engineer,Data Engineer,Senior,India,3,3,16.4,6.8,23.5,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Teradata,Senior Data Engineer,Data Engineer,Senior,India,5,5,13.5,10.0,18.6,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Visa,Senior Data Engineer,Data Engineer,Senior,India,3,3,27.3,20.0,32.6,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ernst & Young,Senior Data Engineer,Data Engineer,Senior,India,3,3,18.5,12.0,28.5,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Concentrix Corporation,Senior Data Engineer,Data Engineer,Senior,India,2,2,5.4,4.2,6.6,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HCL Technologies,Senior Data Engineer,Data Engineer,Senior,India,4,4,18.0,5.0,30.0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lowe's,Senior Data Engineer,Data Engineer,Senior,India,5,5,18.9,16.0,25.0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Indium Software,Senior Data Engineer,Data Engineer,Senior,India,3,3,15.5,9.0,22.0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Target,Senior Data Engineer,Data Engineer,Senior,India,3,3,22.1,15.5,30.0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tech Mahindra,Senior Data Engineer,Data Engineer,Senior,India,4,4,14.3,7.3,27.0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Deloitte,Senior Data Engineer,Data Engineer,Senior,India,4,4,16.3,10.5,22.0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Amazon,Senior Data Engineer,Data Engineer,Senior,India,6,6,32.0,18.0,45.0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DXC Technology,Senior Data Engineer,Data Engineer,Senior,India,5,5,14.7,9.6,24.2,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tiger Analytics,Senior Data Engineer,Data Engineer,Senior,India,5,5,22.1,15.0,28.0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GE Healthcare,Senior Data Engineer,Data Engineer,Senior,India,5,5,17.8,13.0,24.8,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Morgan Stanley,Senior Data Engineer,Data Engineer,Senior,India,6,6,28.8,20.0,36.5,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EPAM Systems,Senior Data Engineer,Data Engineer,Senior,India,4,4,23.1,17.0,27.0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NIIT Technologies,Senior Data Engineer,Data Engineer,Senior,India,2,2,15.0,14.5,15.5,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GE,Senior Data Engineer,Data Engineer,Senior,India,4,4,19.3,14.0,25.2,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JLL,Senior Data Engineer,Data Engineer,Senior,India,4,4,23.5,16.5,33.0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nagarro,Senior Data Engineer,Data Engineer,Senior,India,3,3,24.1,17.0,32.0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NIKE,Senior Data Engineer,Data Engineer,Senior,India,5,5,31.0,27.0,35.0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Micron Technology,Senior Data Engineer,Data Engineer,Senior,India,5,5,19.8,12.5,29.0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nokia,Senior Data Engineer,Data Engineer,Senior,India,5,5,17.5,13.5,25.0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UST,Senior Data Engineer,Data Engineer,Senior,India,4,4,14.5,9.3,21.0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wavicle Data Solutions,Senior Data Engineer,Data Engineer,Senior,India,0,0,11.8,9.0,15.6,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KPI Partners,Senior Data Engineer,Data Engineer,Senior,India,4,4,17.1,13.5,22.3,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Happiest Minds Technologies,Senior Data Engineer,Data Engineer,Senior,India,5,5,16.3,9.5,24.5,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BCG,Senior Data Engineer,Data Engineer,Senior,India,4,4,24.7,20.1,28.0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Infosys,Senior Data Engineer,Data Engineer,Senior,India,2,2,8.7,4.5,15.5,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JP Morgan Chase,Senior Data Engineer,Data Engineer,Senior,India,5,5,22.3,11.9,28.0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Philips,Senior Data Engineer,Data Engineer,Senior,India,2,2,17.5,15.0,22.0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Innova Solutions,Senior Data Engineer,Data Engineer,Senior,India,7,7,27.1,16.0,40.0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Legato Health Technologies,Senior Data Engineer,Data Engineer,Senior,India,4,4,16.9,11.0,22.0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DUNNHUMBY IT SERVICES INDIA,Senior Data Engineer,Data Engineer,Senior,India,2,2,13.2,11.0,18.0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ecolab Digital Center,Senior Data Engineer,Data Engineer,Senior,India,5,5,17.1,12.3,19.8,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bosch Global Software Technologies,Senior Data Engineer,Data Engineer,Senior,India,2,2,13.8,9.0,22.0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maersk Line,Senior Data Engineer,Data Engineer,Senior,India,4,4,21.5,16.2,29.5,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Commonwealth Bank of Australia,Senior Data Engineer,Data Engineer,Senior,India,7,7,31.7,20.8,43.1,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cisco Systems,Senior Data Engineer,Data Engineer,Senior,India,10,10,25.9,22.0,32.0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tredence,Senior Data Engineer,Data Engineer,Senior,India,1,1,10.7,8.0,15.0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oracle,Senior Data Engineer,Data Engineer,Senior,India,5,5,29.2,15.0,51.0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lenovo,Senior Data Engineer,Data Engineer,Senior,India,4,4,13.5,12.0,17.0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Photon Interactive,Senior Data Engineer,Data Engineer,Senior,India,4,4,8.1,6.4,10.0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Intersoft Data Labs,Senior Data Engineer,Data Engineer,Senior,India,3,3,29.2,20.0,37.8,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lumiq.ai,Senior Data Engineer,Data Engineer,Senior,India,3,3,14.0,10.0,17.5,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dell,Senior Data Engineer,Data Engineer,Senior,India,2,2,13.2,9.2,18.0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SpringML,Senior Data Engineer,Data Engineer,Senior,India,2,2,11.1,8.5,16.5,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Verizon,Senior Data Engineer,Data Engineer,Senior,India,4,4,17.6,10.0,30.2,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dunnhumby,Senior Data Engineer,Data Engineer,Senior,India,2,2,13.6,10.0,18.0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hewlett-Packard Enterprise,Senior Data Engineer,Data Engineer,Senior,India,3,3,24.9,9.0,35.0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bajaj Finserv,Senior Data Engineer,Data Engineer,Senior,India,1,1,14.4,9.7,19.0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ab Inbev,Senior Data Engineer,Data Engineer,Senior,India,8,8,26.4,20.0,35.0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Collabera Technologies,Senior Data Engineer,Data Engineer,Senior,India,4,4,15.1,11.0,25.0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GE Aviation,Senior Data Engineer,Data Engineer,Senior,India,8,8,18.7,16.0,24.0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+News Technology Services,Senior Data Engineer,Data Engineer,Senior,India,5,5,17.4,12.3,21.0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZS,Senior Data Engineer,Data Engineer,Senior,India,2,2,18.6,15.0,23.0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NTT DATA,Senior Data Engineer,Data Engineer,Senior,India,2,2,19.9,11.0,28.6,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Koch Business Solutions,Senior Data Engineer,Data Engineer,Senior,India,7,7,29.5,23.0,37.0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PwC,Senior Data Engineer,Data Engineer,Senior,India,4,4,17.0,11.4,24.0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+McKinsey & Company,Senior Data Engineer,Data Engineer,Senior,India,5,5,26.6,19.0,33.0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Indegene,Senior Data Engineer,Data Engineer,Senior,India,3,3,15.7,10.0,18.8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Johnson & Johnson,Senior Data Engineer,Data Engineer,Senior,India,4,4,16.4,12.0,21.0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Optum Global Solutions,Senior Data Engineer,Data Engineer,Senior,India,7,7,18.5,14.5,23.5,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DBS Bank,Senior Data Engineer,Data Engineer,Senior,India,5,5,20.4,14.0,30.0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bank of America,Senior Data Engineer,Data Engineer,Senior,India,4,4,16.1,13.5,19.3,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+American Express,Senior Data Engineer,Data Engineer,Senior,India,7,7,28.6,22.0,40.0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nisum Technologies,Senior Data Engineer,Data Engineer,Senior,India,3,3,20.1,18.0,24.0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mphasis,Senior Data Engineer,Data Engineer,Senior,India,5,5,13.8,8.7,20.0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Samsung,Senior Data Engineer,Data Engineer,Senior,India,4,4,15.2,10.0,21.0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MakeMyTrip,Senior Data Engineer,Data Engineer,Senior,India,3,3,26.4,17.0,37.0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Saama Technologies,Senior Data Engineer,Data Engineer,Senior,India,4,4,16.5,13.7,21.2,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TO THE NEW,Senior Data Engineer,Data Engineer,Senior,India,4,4,18.9,18.0,20.0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PayPal,Senior Data Engineer,Data Engineer,Senior,India,6,6,23.7,19.0,28.0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Harman Connected Services,Senior Data Engineer,Data Engineer,Senior,India,5,5,19.8,14.0,32.0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ITC Infotech India,Senior Data Engineer,Data Engineer,Senior,India,4,4,16.8,10.6,21.5,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IQVIA,Senior Data Engineer,Data Engineer,Senior,India,4,4,17.3,13.0,21.5,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luxoft,Senior Data Engineer,Data Engineer,Senior,India,5,5,19.5,15.0,23.0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Paytm,Senior Data Engineer,Data Engineer,Senior,India,4,4,25.9,20.0,33.0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Citicorp,Senior Data Engineer,Data Engineer,Senior,India,4,4,23.1,18.8,28.0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Axa XL,Senior Data Engineer,Data Engineer,Senior,India,4,4,7.7,7.0,9.2,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TEKsystems,Senior Data Engineer,Data Engineer,Senior,India,5,5,16.4,10.5,26.0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,Senior Data Engineer,Data Engineer,Senior,India,5,5,16.1,12.0,20.0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AstraZeneca,Senior Data Engineer,Data Engineer,Senior,India,9,9,14.0,11.0,19.0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BlazeClan Technologies,Senior Data Engineer,Data Engineer,Senior,India,4,4,10.0,7.3,11.7,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Semantics,Senior Data Engineer,Data Engineer,Senior,India,7,7,15.4,11.0,17.4,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Birlasoft,Senior Data Engineer,Data Engineer,Senior,India,4,4,12.0,8.8,13.5,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Xpo Logistics,Senior Data Engineer,Data Engineer,Senior,India,6,6,16.3,14.0,18.0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Renault Nissan Technology & Business Centre India,Senior Data Engineer,Data Engineer,Senior,India,5,5,8.2,7.7,9.1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DataWeave,Senior Data Engineer,Data Engineer,Senior,India,3,3,13.5,11.3,16.0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eli Lilly and Company,Senior Data Engineer,Data Engineer,Senior,India,7,7,25.4,17.4,32.0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DataMetica,Senior Data Engineer,Data Engineer,Senior,India,4,4,13.3,7.5,23.0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+InfoStretch,Senior Data Engineer,Data Engineer,Senior,India,4,4,16.8,10.7,23.0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GE Transportation,Senior Data Engineer,Data Engineer,Senior,India,8,8,22.2,21.0,23.0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Baker Hughes,Senior Data Engineer,Data Engineer,Senior,India,8,8,21.4,16.0,27.1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Intuit,Senior Data Engineer,Data Engineer,Senior,India,8,8,39.0,26.0,47.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Expedia,Senior Data Engineer,Data Engineer,Senior,India,6,6,34.8,30.0,41.3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Yash Technologies,Senior Data Engineer,Data Engineer,Senior,India,5,5,14.5,10.0,16.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IHS Markit,Senior Data Engineer,Data Engineer,Senior,India,6,6,24.0,19.0,27.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swiss Re,Senior Data Engineer,Data Engineer,Senior,India,6,6,20.2,17.0,25.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dun & Bradstreet,Senior Data Engineer,Data Engineer,Senior,India,7,7,18.0,14.2,23.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Siemens Healthineers,Senior Data Engineer,Data Engineer,Senior,India,4,4,20.0,14.0,24.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Apar Technologies,Senior Data Engineer,Data Engineer,Senior,India,8,8,24.5,21.5,28.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GE Digital,Senior Data Engineer,Data Engineer,Senior,India,7,7,16.9,15.0,19.9,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Riskonnect,Senior Data Engineer,Data Engineer,Senior,India,4,4,8.5,7.0,9.8,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+T-Systems,Senior Data Engineer,Data Engineer,Senior,India,7,7,21.2,17.5,23.5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NCR Corporation,Senior Data Engineer,Data Engineer,Senior,India,4,4,16.0,11.3,22.6,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BA Continuum,Senior Data Engineer,Data Engineer,Senior,India,7,7,19.6,17.4,21.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Softcrylic Technology Solutions,Senior Data Engineer,Data Engineer,Senior,India,4,4,18.6,10.0,29.5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rakuten,Senior Data Engineer,Data Engineer,Senior,India,5,5,23.2,16.6,30.9,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Honeywell Technology Solutions,Senior Data Engineer,Data Engineer,Senior,India,2,2,22.5,20.1,24.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GlobalLogic,Senior Data Engineer,Data Engineer,Senior,India,3,3,17.3,10.4,23.1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Emirates Airlines,Senior Data Engineer,Data Engineer,Senior,India,6,6,68.3,20.0,94.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ValueLabs,Senior Data Engineer,Data Engineer,Senior,India,5,5,19.5,15.0,21.7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GEP Worldwide,Senior Data Engineer,Data Engineer,Senior,India,4,4,15.5,13.5,17.5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ameriprise Financial,Senior Data Engineer,Data Engineer,Senior,India,3,3,11.7,10.0,15.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gartner India Research and Advisory Services,Senior Data Engineer,Data Engineer,Senior,India,3,3,20.0,16.5,24.5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Information Evolution,Senior Data Engineer,Data Engineer,Senior,India,3,3,3.4,2.5,4.3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alliance Data,Senior Data Engineer,Data Engineer,Senior,India,4,4,16.9,14.5,19.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Franklin Templeton International Services,Senior Data Engineer,Data Engineer,Senior,India,5,5,18.7,14.2,23.5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Boeing,Senior Data Engineer,Data Engineer,Senior,India,7,7,22.2,14.0,27.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kloud 9,Senior Data Engineer,Data Engineer,Senior,India,7,7,29.9,24.0,39.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Algonomy,Senior Data Engineer,Data Engineer,Senior,India,8,8,15.2,13.5,16.3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tavant Technologies,Senior Data Engineer,Data Engineer,Senior,India,4,4,13.7,10.5,16.5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cgi Group,Senior Data Engineer,Data Engineer,Senior,India,5,5,12.0,6.5,15.4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Societe Generale,Senior Data Engineer,Data Engineer,Senior,India,7,7,21.9,12.5,34.5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mr Cooper,Senior Data Engineer,Data Engineer,Senior,India,4,4,13.8,9.0,17.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ValueMomentum,Senior Data Engineer,Data Engineer,Senior,India,4,4,19.4,12.0,27.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Clairvoyant India,Senior Data Engineer,Data Engineer,Senior,India,5,5,16.1,12.0,20.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mercedes-Benz Research & Development India,Senior Data Engineer,Data Engineer,Senior,India,3,3,26.2,11.5,60.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Knoema IT Solutions,Senior Data Engineer,Data Engineer,Senior,India,4,4,8.9,5.3,13.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Evalueserve,Senior Data Engineer,Data Engineer,Senior,India,4,4,12.5,10.4,17.4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Uber,Senior Data Engineer,Data Engineer,Senior,India,7,7,66.3,34.5,93.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GGK Technologies,Senior Data Engineer,Data Engineer,Senior,India,5,5,11.2,9.0,14.5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Anju Software,Senior Data Engineer,Data Engineer,Senior,India,4,4,16.9,6.8,20.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+phData,Senior Data Engineer,Data Engineer,Senior,India,4,4,20.0,16.0,25.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ACS Solution,Senior Data Engineer,Data Engineer,Senior,India,3,3,15.2,13.8,16.4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MassMutual,Senior Data Engineer,Data Engineer,Senior,India,6,6,19.3,18.3,21.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ConcertAI,Senior Data Engineer,Data Engineer,Senior,India,5,5,28.2,22.0,32.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Onepoint IT Consulting,Senior Data Engineer,Data Engineer,Senior,India,4,4,10.3,9.6,10.8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sapient Global Markets,Senior Data Engineer,Data Engineer,Senior,India,5,5,19.9,15.0,25.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marlabs,Senior Data Engineer,Data Engineer,Senior,India,2,2,14.2,6.7,20.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Red Hat,Senior Data Engineer,Data Engineer,Senior,India,2,2,18.9,11.8,26.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EXL Service,Senior Data Engineer,Data Engineer,Senior,India,3,3,18.7,13.0,23.6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Advance Auto Parts,Senior Data Engineer,Data Engineer,Senior,India,7,7,25.7,24.0,28.9,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Telstra,Senior Data Engineer,Data Engineer,Senior,India,7,7,27.6,18.0,32.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GE Power,Senior Data Engineer,Data Engineer,Senior,India,8,8,15.4,11.0,22.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Epsilon,Senior Data Engineer,Data Engineer,Senior,India,8,8,23.8,16.5,26.8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cimpress,Senior Data Engineer,Data Engineer,Senior,India,4,4,20.5,15.0,23.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senvion,Senior Data Engineer,Data Engineer,Senior,India,4,4,12.7,9.0,16.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USEReady,Senior Data Engineer,Data Engineer,Senior,India,4,4,14.3,9.4,18.4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Milliman,Senior Data Engineer,Data Engineer,Senior,India,5,5,19.5,14.1,25.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Blackhawk Network,Senior Data Engineer,Data Engineer,Senior,India,5,5,21.8,16.4,25.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wabtec,Senior Data Engineer,Data Engineer,Senior,India,9,9,20.0,19.0,21.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KrazyBee,Senior Data Engineer,Data Engineer,Senior,India,3,3,10.3,8.5,15.7,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Roche Diagnostics,Senior Data Engineer,Data Engineer,Senior,India,5,5,33.1,23.5,43.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fidelity National Information Services,Senior Data Engineer,Data Engineer,Senior,India,6,6,20.1,12.0,23.8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+XL Health,Senior Data Engineer,Data Engineer,Senior,India,4,4,9.9,8.5,12.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ADP Solutions,Senior Data Engineer,Data Engineer,Senior,India,4,4,14.3,11.6,19.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hexaware Technologies,Senior Data Engineer,Data Engineer,Senior,India,8,8,18.4,13.0,22.8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Citibank,Senior Data Engineer,Data Engineer,Senior,India,6,6,18.2,14.0,20.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Akamai Technologies,Senior Data Engineer,Data Engineer,Senior,India,5,5,24.1,21.8,25.1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Quest Global,Senior Data Engineer,Data Engineer,Senior,India,8,8,20.3,17.0,24.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TCS,Machine Learning Engineer,Data Engineer,Mid-Level,India,1,1,5.8,4.0,9.3,193,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Quantiphi Analytics Solutions,Machine Learning Engineer,Data Engineer,Mid-Level,India,1,1,11.2,7.4,15.0,174,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Accenture,Machine Learning Engineer,Data Engineer,Mid-Level,India,2,2,9.9,5.4,15.2,61,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wipro,Machine Learning Engineer,Data Engineer,Mid-Level,India,1,1,5.9,3.5,13.0,45,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tiger Analytics,Machine Learning Engineer,Data Engineer,Mid-Level,India,0,0,13.6,9.0,22.0,37,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Capgemini,Machine Learning Engineer,Data Engineer,Mid-Level,India,2,2,6.3,4.5,12.1,29,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Infosys,Machine Learning Engineer,Data Engineer,Mid-Level,India,2,2,6.7,4.3,14.7,28,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cognizant,Machine Learning Engineer,Data Engineer,Mid-Level,India,1,1,8.0,4.0,15.2,28,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HCL Technologies,Machine Learning Engineer,Data Engineer,Mid-Level,India,0,0,8.3,4.2,14.0,21,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tech Mahindra,Machine Learning Engineer,Data Engineer,Mid-Level,India,1,1,7.3,3.9,16.2,20,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IBM,Machine Learning Engineer,Data Engineer,Mid-Level,India,3,3,9.3,4.5,13.2,18,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Deloitte,Machine Learning Engineer,Data Engineer,Mid-Level,India,2,2,13.7,8.3,21.0,14,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Amazon,Machine Learning Engineer,Data Engineer,Mid-Level,India,1,1,12.5,4.2,28.5,13,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Qualcomm,Machine Learning Engineer,Data Engineer,Mid-Level,India,0,0,19.4,12.0,29.8,12,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OptiSol Business Solutions,Machine Learning Engineer,Data Engineer,Mid-Level,India,0,0,5.6,3.5,8.5,11,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mindtree,Machine Learning Engineer,Data Engineer,Mid-Level,India,1,1,5.3,3.5,7.0,10,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Virtusa Consulting Services,Machine Learning Engineer,Data Engineer,Mid-Level,India,0,0,5.1,4.0,9.0,9,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ford Motor,Machine Learning Engineer,Data Engineer,Mid-Level,India,2,2,11.8,7.5,16.0,9,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Samsung Research,Machine Learning Engineer,Data Engineer,Mid-Level,India,1,1,17.4,11.0,25.0,9,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DXC Technology,Machine Learning Engineer,Data Engineer,Mid-Level,India,2,2,7.3,4.0,11.0,8,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UST,Machine Learning Engineer,Data Engineer,Mid-Level,India,2,2,6.7,5.0,9.0,8,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reliance jio,Machine Learning Engineer,Data Engineer,Mid-Level,India,2,2,9.2,5.5,15.0,8,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Straive,Machine Learning Engineer,Data Engineer,Mid-Level,India,3,3,9.3,4.5,13.5,8,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+e-Zest,Machine Learning Engineer,Data Engineer,Mid-Level,India,0,0,4.5,2.1,7.0,7,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Trantor,Machine Learning Engineer,Data Engineer,Mid-Level,India,1,1,9.4,7.0,16.5,7,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JP Morgan Chase,Machine Learning Engineer,Data Engineer,Mid-Level,India,3,3,16.9,13.0,22.0,7,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Freelancer.com,Machine Learning Engineer,Data Engineer,Mid-Level,India,0,0,5.1,2.0,8.4,7,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jio Platforms,Machine Learning Engineer,Data Engineer,Mid-Level,India,0,0,10.9,6.7,16.8,7,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Monsoon CreditTech,Machine Learning Engineer,Data Engineer,Mid-Level,India,0,0,9.6,7.0,12.0,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+L&T Technology Services,Machine Learning Engineer,Data Engineer,Mid-Level,India,1,1,5.3,4.4,7.0,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sysark,Machine Learning Engineer,Data Engineer,Mid-Level,India,1,1,3.7,3.1,4.5,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lucida Technologies,Machine Learning Engineer,Data Engineer,Mid-Level,India,1,1,3.6,3.3,4.3,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ignitarium Technology Solutions,Machine Learning Engineer,Data Engineer,Mid-Level,India,0,0,5.8,5.0,7.0,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oracle,Machine Learning Engineer,Data Engineer,Mid-Level,India,1,1,20.7,20.0,22.0,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Samsung,Machine Learning Engineer,Data Engineer,Mid-Level,India,0,0,16.8,14.0,21.5,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sri Ayyan Kendra Vidyalaya International School,Machine Learning Engineer,Data Engineer,Mid-Level,India,1,1,6.1,2.3,10.0,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reflections Info Systems,Machine Learning Engineer,Data Engineer,Mid-Level,India,1,1,3.6,3.0,4.5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Qualitas Technologies,Machine Learning Engineer,Data Engineer,Mid-Level,India,1,1,4.7,2.8,7.0,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Allstate,Machine Learning Engineer,Data Engineer,Mid-Level,India,5,5,12.1,11.2,13.0,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Barclays,Machine Learning Engineer,Data Engineer,Mid-Level,India,3,3,19.4,9.0,29.1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ericsson,Machine Learning Engineer,Data Engineer,Mid-Level,India,2,2,11.9,6.2,18.5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Confidential,Machine Learning Engineer,Data Engineer,Mid-Level,India,1,1,7.4,5.9,9.0,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Taglr Technologies,Machine Learning Engineer,Data Engineer,Mid-Level,India,0,0,6.3,4.5,10.0,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Takvaviya Analytics,Machine Learning Engineer,Data Engineer,Mid-Level,India,1,1,4.8,4.2,5.3,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AAIC Technologies,Machine Learning Engineer,Data Engineer,Mid-Level,India,0,0,9.1,6.0,14.8,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CIMCON Software,Machine Learning Engineer,Data Engineer,Mid-Level,India,2,2,6.6,3.0,10.0,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Siemens,Machine Learning Engineer,Data Engineer,Mid-Level,India,3,3,11.7,6.0,16.0,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fractal Analytics,Machine Learning Engineer,Data Engineer,Mid-Level,India,4,4,19.4,15.0,25.0,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Metagogy Learning Systems,Machine Learning Engineer,Data Engineer,Mid-Level,India,0,0,3.7,3.0,4.2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EEGRAB,Machine Learning Engineer,Data Engineer,Mid-Level,India,1,1,5.1,3.5,7.2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Digitalmain,Machine Learning Engineer,Data Engineer,Mid-Level,India,1,1,4.4,3.0,5.8,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Danaher,Machine Learning Engineer,Data Engineer,Mid-Level,India,6,6,24.8,24.0,26.0,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phenom,Machine Learning Engineer,Data Engineer,Mid-Level,India,1,1,12.6,9.0,16.0,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Orange Business Services,Machine Learning Engineer,Data Engineer,Mid-Level,India,5,5,16.1,15.0,18.0,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Calsoft,Machine Learning Engineer,Data Engineer,Mid-Level,India,1,1,10.9,6.0,25.0,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hewlett-Packard Enterprise,Machine Learning Engineer,Data Engineer,Mid-Level,India,2,2,23.3,7.0,40.0,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Datamatics Global Services,Machine Learning Engineer,Data Engineer,Mid-Level,India,1,1,5.1,3.1,8.0,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Techolution,Machine Learning Engineer,Data Engineer,Mid-Level,India,4,4,10.0,7.0,14.0,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Intel,Machine Learning Engineer,Data Engineer,Mid-Level,India,1,1,14.4,10.5,16.1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Accenture,Data Architect,Other Data Role,Mid-Level,India,8,8,24.6,15.8,33.0,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TCS,Data Architect,Other Data Role,Mid-Level,India,8,8,19.9,13.0,30.0,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fiserv,Data Architect,Other Data Role,Mid-Level,India,3,3,11.2,8.4,18.4,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IBM,Data Architect,Other Data Role,Mid-Level,India,10,10,19.6,13.5,29.0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cognizant,Data Architect,Other Data Role,Mid-Level,India,10,10,19.6,15.0,25.5,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wipro,Data Architect,Other Data Role,Mid-Level,India,8,8,20.2,13.0,27.5,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Globant,Data Architect,Other Data Role,Mid-Level,India,4,4,21.2,15.5,32.0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Capgemini,Data Architect,Other Data Role,Mid-Level,India,10,10,22.6,16.0,32.0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tech Mahindra,Data Architect,Other Data Role,Mid-Level,India,13,13,17.3,11.2,25.0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HCL Technologies,Data Architect,Other Data Role,Mid-Level,India,13,13,23.1,16.6,31.0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UST,Data Architect,Other Data Role,Mid-Level,India,9,9,26.8,16.0,45.0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Adobe,Data Architect,Other Data Role,Mid-Level,India,9,9,32.6,30.0,37.0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cgi Group,Data Architect,Other Data Role,Mid-Level,India,8,8,23.9,17.0,30.6,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Infosys,Data Architect,Other Data Role,Mid-Level,India,13,13,19.8,11.9,32.0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JP Morgan Chase,Data Architect,Other Data Role,Mid-Level,India,8,8,35.1,27.0,45.0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Genpact,Data Architect,Other Data Role,Mid-Level,India,7,7,26.1,15.0,37.0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ernst & Young,Data Architect,Other Data Role,Mid-Level,India,8,8,23.5,20.0,27.7,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Deloitte,Data Architect,Other Data Role,Mid-Level,India,11,11,27.6,21.2,32.3,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PepsiCo,Data Architect,Other Data Role,Mid-Level,India,10,10,33.6,26.1,49.0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Anthology,Data Architect,Other Data Role,Mid-Level,India,11,11,25.5,25.0,26.3,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DXC Technology,Data Architect,Other Data Role,Mid-Level,India,14,14,19.8,15.5,24.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Atos,Data Architect,Other Data Role,Mid-Level,India,12,12,22.8,17.2,35.7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ValueLabs,Data Architect,Other Data Role,Mid-Level,India,9,9,22.5,21.0,26.7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Barclays,Data Architect,Other Data Role,Mid-Level,India,15,15,30.4,30.0,30.7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ericsson,Data Architect,Other Data Role,Mid-Level,India,8,8,17.5,12.8,26.5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vodafone Idea,Data Architect,Other Data Role,Mid-Level,India,10,10,25.8,21.3,30.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IQVIA,Data Architect,Other Data Role,Mid-Level,India,8,8,28.6,25.0,34.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Amdocs,Data Architect,Other Data Role,Mid-Level,India,5,5,12.5,9.9,16.1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mindtree,Data Architect,Other Data Role,Mid-Level,India,10,10,20.5,17.5,23.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mphasis,Data Architect,Other Data Role,Mid-Level,India,13,13,20.9,14.0,32.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PwC,Data Architect,Other Data Role,Mid-Level,India,8,8,21.6,13.0,32.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Happiest Minds Technologies,Data Architect,Other Data Role,Mid-Level,India,12,12,27.6,26.5,29.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shell,Data Architect,Other Data Role,Mid-Level,India,14,14,35.7,33.6,38.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fidelity International,Data Architect,Other Data Role,Mid-Level,India,8,8,50.6,23.4,93.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maveric Systems,Data Architect,Other Data Role,Mid-Level,India,9,9,19.0,19.0,19.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Webhelp,Data Architect,Other Data Role,Mid-Level,India,5,5,12.0,7.5,18.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bajaj Finserv,Data Architect,Other Data Role,Mid-Level,India,6,6,33.1,19.0,42.5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GlobalLogic,Data Architect,Other Data Role,Mid-Level,India,10,10,25.5,22.7,28.5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+L&T Infotech,Data Architect,Other Data Role,Mid-Level,India,11,11,24.8,20.5,33.5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ab Inbev,Data Architect,Other Data Role,Mid-Level,India,14,14,29.8,26.1,31.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Automatic Data Processing,Data Architect,Other Data Role,Mid-Level,India,7,7,36.5,14.0,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brillio,Data Architect,Other Data Role,Mid-Level,India,14,14,28.3,25.0,38.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Whishworks It Consulting,Data Architect,Other Data Role,Mid-Level,India,13,13,29.8,20.0,37.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ITC Infotech India,Data Architect,Other Data Role,Mid-Level,India,12,12,29.0,19.8,40.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IVY Comptech,Data Architect,Other Data Role,Mid-Level,India,12,12,21.8,17.0,29.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Collabera Technologies,Data Architect,Other Data Role,Mid-Level,India,8,8,17.0,12.0,23.1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Coforge,Data Architect,Other Data Role,Mid-Level,India,7,7,27.1,18.5,39.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hitachi,Data Architect,Other Data Role,Mid-Level,India,21,21,40.0,25.0,50.0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GE Power,Data Architect,Other Data Role,Mid-Level,India,7,7,16.7,14.9,19.0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+T-Systems,Data Architect,Other Data Role,Mid-Level,India,16,16,33.3,33.0,34.0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
