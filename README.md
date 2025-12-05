@@ -1,5 +1,5 @@
 # Data_Science_Jobs_in_India
-# 🇮🇳 India Data Science Job Market Analysis 2025
+# India Data Science Job Market Analysis 2025
 
 
 
